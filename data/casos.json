@@ -1,0 +1,402 @@
+[
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Trama golpista (AP 2668, núcleo 1)",
+  "acusacao": "Liderar organização criminosa armada e tentativa de golpe de Estado, ligada ao 8/1/2023. PROVADO em decisão judicial. Pena de 27 anos e 3 meses, regime inicial fechado.",
+  "orgao": "STF, Primeira Turma (relator Moraes)",
+  "estagio": "Condenado definitivo",
+  "data": "2025-09-11",
+  "data_texto": "Condenado em 11/09/2025 por 4 a 1 (Fux vencido). Trânsito em julgado certificado em 25/11/2025.",
+  "defesa": "O caso devia ter ido ao plenário, não à Turma (tese rejeitada por 4 a 1). Sustentou que ainda caberiam embargos infringentes. Pediu prisão domiciliar por idade e saúde.",
+  "fontes": [
+   "https://apublica.org/nota/stf-decide-fim-do-processo-que-condena-jair-bolsonaro/",
+   "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/",
+   "https://www.dgabc.com.br/Noticia/4271351/stf-declara-transito-em-julgado-de-bolsonaro-torres-e-ramagem-e-prisoes-podem-ser-decretadas"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Execução da pena",
+  "acusacao": "Cumprimento da condenação da trama golpista. Prisão preventiva em 22/11/2025. Domiciliar por saúde, no Jardim Botânico (Brasília), desde março. A fonte não diz o ano; pela cronologia, é 2026.",
+  "orgao": "STF (execução penal, Moraes)",
+  "estagio": "Condenado definitivo",
+  "data": "2026-09-24",
+  "data_texto": "Situação citada até 24/09/2026",
+  "defesa": "Pediu suspender a pena até julgar a revisão criminal e desistiu horas depois (24/09/2026). A fonte não informa o motivo.",
+  "fontes": [
+   "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Revisão criminal da trama golpista",
+  "acusacao": "Ação da defesa, não acusação. Aberta em maio (provavelmente 2026; a fonte não diz o ano). Não julgada.",
+  "orgao": "STF (relator Nunes Marques, da Segunda Turma)",
+  "estagio": "Condenado definitivo (revisão pendente)",
+  "data": "2026-09-24",
+  "data_texto": "Em curso em 24/09/2026",
+  "defesa": "Quer anular por competência: plenário em vez da Primeira Turma.",
+  "fontes": [
+   "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Joias sauditas",
+  "acusacao": "PF indiciou por associação criminosa, lavagem de dinheiro e apropriação de bens públicos, junto com outras 11 pessoas. ALEGADO pela PF. A PGR pediu arquivamento por lacuna legal.",
+  "orgao": "PF / PGR / STF (Moraes)",
+  "estagio": "Indiciado",
+  "data": "2024-07",
+  "data_texto": "Indiciado em 07/2024. Arquivamento pedido em 05/03/2026. Decisão de Moraes sobre o pedido não localizada.",
+  "defesa": "Diz que o caso é igual ao do relógio de Lula, que o TCU deixou com o presidente.",
+  "fontes": [
+   "https://www.cnnbrasil.com.br/politica/pgr-pede-ao-stf-arquivamento-de-inquerito-sobre-joias-dadas-a-bolsonaro/",
+   "https://www.cnnbrasil.com.br/politica/moraes-manda-intimar-bolsonaro-sobre-caso-das-joias-sauditas/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Joias sauditas: cobrança da Receita",
+  "acusacao": "Cobrança por infração fiscal, na esfera administrativa. Não é o inquérito criminal.",
+  "orgao": "STF (Moraes) / Receita Federal",
+  "estagio": "Fora da escala penal",
+  "data": "2026-10-07",
+  "data_texto": "07/10/2026: Moraes mandou intimar Bolsonaro",
+  "defesa": "Ver linha acima.",
+  "fontes": [
+   "https://www.cnnbrasil.com.br/politica/moraes-manda-intimar-bolsonaro-sobre-caso-das-joias-sauditas/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Cartão de vacina (Conecte SUS)",
+  "acusacao": "Falsificar certificados de vacinação contra covid. ALEGADO pela PF, com base na delação de Mauro Cid.",
+  "orgao": "STF (Moraes), a pedido da PGR",
+  "estagio": "Arquivado",
+  "data": "2025-03-28",
+  "data_texto": "28/03/2025",
+  "defesa": "O advogado Paulo Cunha questiona a delação de Cid. Bolsonaro se diz inocente e perseguido. O arquivamento foi por falta de provas; o caso pode ser reaberto com provas novas.",
+  "fontes": [
+   "https://www.opovo.com.br/noticias/mundo/2025/03/28/stf-arquiva-caso-contra-bolsonaro-por-suposta-fraude-em-cartao-de-vacinacao.html"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "TSE: reunião com embaixadores",
+  "acusacao": "Atacar a urna eletrônica diante de embaixadores (julho de 2022), com transmissão pela TV Brasil. Abuso de poder político e uso indevido dos meios de comunicação. PROVADO em decisão do TSE.",
+  "orgao": "TSE",
+  "estagio": "Condenado não definitivo (eleitoral)",
+  "data": "2023-06-30",
+  "data_texto": "30/06/2023, por 5 a 2. Inelegível de 02/10/2022 a 02/10/2030. Trânsito em julgado não confirmado.",
+  "defesa": "Alegou contraponto institucional e evento pré-eleitoral; pediu só multa. Raul Araújo e Nunes Marques votaram contra. Braga Netto foi absolvido.",
+  "fontes": [
+   "https://www.tnh1.com.br/noticia/nid/por-5-votos-a-2-tse-torna-bolsonaro-inelegivel-por-oito-anos/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "TSE: 7 de Setembro de 2022 (com Braga Netto)",
+  "acusacao": "Usar as comemorações do 7 de Setembro para fins eleitorais. A fonte não detalha o tipo de abuso. Multa de R$ 425,6 mil (R$ 212,8 mil para Braga Netto). PROVADO em decisão do TSE.",
+  "orgao": "TSE",
+  "estagio": "Condenado não definitivo (eleitoral)",
+  "data": "2023-10",
+  "data_texto": "Condenado em 10/2023. Recurso ao STF barrado por Moraes em 27/05/2024. Fim dos recursos não confirmado.",
+  "defesa": "Tentou levar o caso ao STF por recurso extraordinário. Moraes disse que não houve cerceamento de defesa.",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/7070/decisao-de-alexandre-de-moraes-impede-bolsonaro-de-recorrer-ao-stf-contra-inelegibilidade"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Interferência na PF (acusação de Moro)",
+  "acusacao": "Tentar interferir na PF ao trocar o diretor-geral Valeixo (abril de 2020). ALEGADO por Moro. Crimes apurados incluem prevaricação, advocacia administrativa, corrupção passiva, coação no curso do processo e embaraço às investigações.",
+  "orgao": "STF (Moraes) / PGR",
+  "estagio": "Investigação",
+  "data": "2022-03",
+  "data_texto": "PF concluiu que não houve crime (03/2022). PGR (Lindôra Araújo) pediu arquivamento em 19/09/2022. Decisão final de Moraes não confirmada.",
+  "defesa": "Negou interesse político na troca e citou \"falta de interlocução\" com Valeixo. Moro declarou que o presidente não pediu informações nem interferiu em investigações.",
+  "fontes": [
+   "https://www.bandab.com.br/politica/pgr-pede-arquivamento-de-inquerito-contra-bolsonaro-por-interferencia-na-pf/amp/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Baleia jubarte (jet ski, São Sebastião)",
+  "acusacao": "Aproximar-se de uma baleia com a moto aquática ligada (junho de 2023). Multa do Ibama de R$ 2,5 mil (data não verificada).",
+  "orgao": "MPF / PF / Ibama",
+  "estagio": "Arquivado",
+  "data": "2024-03",
+  "data_texto": "PF concluiu sem indiciar (03/2024). MPF arquivou (matéria de 31/03/2025).",
+  "defesa": "Diz que deixou o motor em ponto morto, evitou cruzar a trajetória do animal e desconhecia a proibição. A procuradora viu falta de intenção; pode reabrir com provas novas.",
+  "fontes": [
+   "https://www.correiodamanha.com.br/politica/2025/03/amp/191642-mpf-arquiva-inquerito-contra-bolsonaro-no-caso-da-baleia-jubarte.html"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Abin paralela",
+  "acusacao": "Uso ilegal da Abin para monitorar autoridades.",
+  "orgao": "STF (Moraes), seguindo a PGR",
+  "estagio": "Arquivado",
+  "data": "2026-07-20",
+  "data_texto": "20/07/2026",
+  "defesa": "Não consta na fonte. Motivo do arquivamento: Jair já foi condenado pelos mesmos fatos na trama golpista.",
+  "fontes": [
+   "https://portaldeprefeitura.com.br/bastidores-da-politica/moraes-arquiva-investigacao-contra-bolsonaro-abin-paralela/627419/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Jair Bolsonaro",
+  "pessoa_id": "jair-bolsonaro",
+  "caso": "Covaxin (prevaricação)",
+  "acusacao": "Não agir após o aviso do deputado Luis Miranda sobre irregularidades na compra da vacina. ALEGADO na CPI da Covid.",
+  "orgao": "STF (Rosa Weber), após recurso da PGR",
+  "estagio": "Arquivado",
+  "data": "2022-04-22",
+  "data_texto": "Divulgado em 22/04/2022",
+  "defesa": "A PGR mudou a justificativa para falta de justa causa. Pode ser reaberto com indícios novos. Conclusão da PF não verificada.",
+  "fontes": [
+   "https://diariodocomercio.com.br/politica/ministra-rosa-weber-acata-pgr-e-determina-arquivamento-de-inquerito-contra-bolsonaro-sobre-covaxin/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Eduardo Bolsonaro",
+  "pessoa_id": "eduardo-bolsonaro",
+  "caso": "Coação no curso do processo",
+  "acusacao": "Articular nos EUA sanções (tarifas, vistos, Lei Magnitsky) para pressionar o STF antes do julgamento do pai. PROVADO em decisão judicial, unânime. Pena de 4 anos e 2 meses, semiaberto. Perda do cargo de escrivão da PF e inelegibilidade comunicada ao TSE.",
+  "orgao": "STF, Primeira Turma (relator Moraes)",
+  "estagio": "Condenado definitivo",
+  "data": "2026-06-16",
+  "data_texto": "Condenado em 16/06/2026. Embargos rejeitados por 4 a 0 em 18/09/2026. Trânsito em julgado em 03/10/2026; mandado de prisão e cancelamento dos passaportes em 08/10/2026 (Agência Brasil).",
+  "defesa": "Eduardo não constituiu advogado; a DPU o representa. Alegou liberdade de expressão, imunidade parlamentar, vício na citação e falta de grave ameaça, e pediu a atenuante de confissão. Tudo foi rejeitado. Eduardo diz que não foi citado formalmente.",
+  "fontes": [
+   "https://www.metropoles.com/brasil/stf-decide-que-eduardo-bolsonaro-ficara-inelegivel-ate-2038",
+   "https://www.congressoemfoco.com.br/noticia/122419/1-turma-mantem-condenacao-de-eduardo-bolsonaro-por-lobby-nos-eua"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Eduardo Bolsonaro",
+  "pessoa_id": "eduardo-bolsonaro",
+  "caso": "Perda do mandato por faltas",
+  "acusacao": "Não é acusação criminal. Ato administrativo da Mesa da Câmara por faltas a mais de um terço das sessões de 2025. Segundo resumo de busca, foram 63 de 78 sessões (a confirmar). Não gera inelegibilidade automática.",
+  "orgao": "Mesa Diretora da Câmara",
+  "estagio": "Fora da escala penal (ato administrativo)",
+  "data": "2025-12-18",
+  "data_texto": "18/12/2025 (a confirmar)",
+  "defesa": "Posição de Eduardo não verificada. Aliados e o PT criticaram a antecipação da análise por Hugo Motta.",
+  "fontes": [
+   "https://jornaldebrasilia.com.br/noticias/politica-e-poder/eduardo-bolsonaro-perde-seu-mandato-de-deputado-federal-por-excesso-de-faltas/",
+   "https://tribunadejundiai.com.br/politica/camara-cassa-mandato-de-eduardo-bolsonaro-por-excesso-de-faltas/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Rachadinha na Alerj: provas e denúncia",
+  "acusacao": "Organização criminosa, lavagem de dinheiro, peculato e apropriação indébita. Denúncia do MP-RJ (2020) contra Flávio, Queiroz e mais 15 pessoas.",
+  "orgao": "STJ anulou as decisões do juiz Itabaiana (2021). O Órgão Especial do TJ-RJ rejeitou a denúncia a pedido do próprio MP.",
+  "estagio": "Anulado",
+  "data": "2021",
+  "data_texto": "Anulação no STJ em 2021. Placar de 4 a 1 e rejeição em maio de 2022: a confirmar.",
+  "defesa": "A defesa sustentou foro especial, falta de fundamentação e que ele não foi ouvido. Não houve julgamento de mérito.",
+  "fontes": [
+   "https://www.cartacapital.com.br/politica/o-que-aconteceu-com-o-caso-da-rachadinha-de-flavio-bolsonaro-suposto-candidato-em-2026/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Rachadinha: relatórios do Coaf e foro",
+  "acusacao": "Mesmo caso. Discussão sobre o foro e a validade dos relatórios do Coaf.",
+  "orgao": "STF, Segunda Turma (relator Gilmar Mendes)",
+  "estagio": "Anulado",
+  "data": "2021-11",
+  "data_texto": "Nov/2021: 4 de 5 relatórios do Coaf anulados, Fachin vencido. Fev/2025: Gilmar negou os recursos do MP em decisões monocráticas, sob segredo de justiça. Dia 30/11/2021 e placar de 3 a 1 no foro: a confirmar.",
+  "defesa": "Tese dos \"mandatos cruzados\": trocou de Casa sem intervalo, logo o foro permanece. Segundo Gilmar, o MP-RJ perdeu o prazo. O caso está parado no STF, sem mérito julgado.",
+  "fontes": [
+   "https://www.cartacapital.com.br/politica/o-que-aconteceu-com-o-caso-da-rachadinha-de-flavio-bolsonaro-suposto-candidato-em-2026/"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Carlos Bolsonaro",
+  "pessoa_id": "carlos-bolsonaro",
+  "caso": "Rachadinha na Câmara Municipal do Rio",
+  "acusacao": "Suspeita de desvio de salários de assessores. Em 2024 o MP-RJ denunciou 7 funcionários (prejuízo de ao menos R$ 1,7 milhão), mas não Carlos. Em 2026 a investigação foi reaberta, com Carlos e outras 25 pessoas.",
+  "orgao": "MPRJ (Procuradoria-Geral de Justiça)",
+  "estagio": "Investigação",
+  "data": "2024-09",
+  "data_texto": "Arquivado em 09/2024; reaberto por parecer da PGJ em 24/02/2026, porque o arquivamento teria \"desconsiderado provas\".",
+  "defesa": "O arquivamento de 2024 via só infração administrativa, sem movimentação financeira para Carlos. Segundo resumo de busca, ele \"permanece à disposição\". Que um juiz devolveu o caso ao MP vem só de um título; não verificado.",
+  "fontes": [
+   "https://www.opovo.com.br/noticias/politica/2024/09/12/mp-denuncia-sete-e-arquiva-inquerito-contra-carlos-bolsonaro-por-rachadinha-no-gabinete.html",
+   "https://www.oliberal.com/politica/mp-do-rio-reabre-investigacao-contra-carlos-bolsonaro-por-suposta-rachadinha-1.1089270"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Carlos Bolsonaro",
+  "pessoa_id": "carlos-bolsonaro",
+  "caso": "Abin paralela",
+  "acusacao": "Organização criminosa e outros crimes no monitoramento ilegal via Abin. ALEGADO pela PF, que o aponta como beneficiário das informações.",
+  "orgao": "PF; parte dele remetida à Justiça Federal do DF",
+  "estagio": "Indiciado",
+  "data": "2025-06-17",
+  "data_texto": "Indiciado em 17/06/2025. Em 20/07/2026 a parte de Carlos foi enviada à Justiça Federal do DF. Sem denúncia.",
+  "defesa": "No X, disse que o indiciamento pela \"PF de Lula\" tem motivação eleitoral.",
+  "fontes": [
+   "https://jornaldebrasilia.com.br/noticias/politica-e-poder/moraes-arquiva-investigacao-contra-bolsonaro-no-caso-abin-paralela/",
+   "https://www.opovo.com.br/noticias/politica/2025/06/17/pf-indicia-bolsonaro-carlos-e-ramagem-no-inquerito-da-abin-paralela.html"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Michelle Bolsonaro",
+  "pessoa_id": "michelle-bolsonaro",
+  "caso": "Joias sauditas",
+  "acusacao": "ALEGADO: investigadores anônimos disseram que a PF via elementos para indiciá-la. Indiciamento formal não confirmado. O indiciamento de 07/2024, segundo um título, alcançou Jair e outras 11 pessoas, sem Michelle (a confirmar).",
+  "orgao": "Polícia Federal",
+  "estagio": "Fora da escala (alegação de fonte anônima)",
+  "data": "2023-08-14",
+  "data_texto": "14/08/2023",
+  "defesa": "Não localizada nas fontes lidas.",
+  "fontes": [
+   "https://atarde.com.br/politica/pf-ve-elementos-para-indiciar-michelle-bolsonaro-no-caso-das-joias-1238736"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Michelle Bolsonaro",
+  "pessoa_id": "michelle-bolsonaro",
+  "caso": "Cheques de Fabrício Queiroz",
+  "acusacao": "Não há investigação nem arquivamento confirmado. Fato registrado: o Coaf (12/2018) apontou um cheque de R$ 24 mil para ela. A Crusoé (08/2020) noticiou cerca de 21 cheques de Queiroz e da esposa, Márcia Aguiar, entre 2011 e 2016, somando R$ 89 mil.",
+  "orgao": "Nenhum processo confirmado",
+  "estagio": "Fora da escala (sem processo confirmado)",
+  "data": "2018-12",
+  "data_texto": "12/2018 e 08/2020",
+  "defesa": "Jair Bolsonaro diz que era pagamento de um empréstimo de R$ 40 mil.",
+  "fontes": [
+   "https://pt.wikipedia.org/wiki/Michelle_Bolsonaro"
+  ],
+  "origem": "06"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Rachadinha na Alerj: denúncia do MP-RJ",
+  "acusacao": "Organização criminosa, peculato, lavagem e apropriação indébita (2007-2018), com Queiroz e mais 15. ALEGADO pelo MP-RJ. Não trata de milícia.",
+  "orgao": "MP-RJ / Órgão Especial do TJ-RJ / STJ (5ª Turma)",
+  "estagio": "Anulado (denúncia rejeitada sem mérito)",
+  "data": "2020-10",
+  "data_texto": "Denúncia em out/2020; rejeitada em 16/05/2022; rejeição mantida em set/2023",
+  "defesa": "Nega. Diz que o processo foi encerrado pela Justiça e que seus dados foram acessados \"de forma criminosa\".",
+  "fontes": [
+   "G1, 11/07/2024",
+   "Conjur, 16/05/2022"
+  ],
+  "origem": "07"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Rachadinha: quebra de sigilo e mandatos cruzados",
+  "acusacao": "Validade das decisões do juiz Itabaiana e dos relatórios do Coaf.",
+  "orgao": "STJ (5ª Turma) / STF",
+  "estagio": "Anulado (vício processual)",
+  "data": "2021-11-09",
+  "data_texto": "09/11/2021",
+  "defesa": "\"Questões processuais, nada de mérito\".",
+  "fontes": [
+   "Estadão, 09/11/2021",
+   "Conjur, 16/05/2022"
+  ],
+  "origem": "07"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Rachadinha: suspensão por Gilmar (Rcl 36.679)",
+  "acusacao": "Dados do Coaf pedidos por e-mail, sem autorização judicial.",
+  "orgao": "STF (Gilmar Mendes)",
+  "estagio": "Investigação (suspensão revogada em nov/2019)",
+  "data": "2019-09-27",
+  "data_texto": "27/09/2019",
+  "defesa": "Tese da defesa acolhida e depois revertida pelo plenário.",
+  "fontes": [
+   "Conjur, 30/09/2019"
+  ],
+  "origem": "07"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "Inquérito eleitoral sobre imóveis",
+  "acusacao": "Lavagem e falsidade ideológica na declaração de bens de 2018.",
+  "orgao": "Polícia Federal",
+  "estagio": "Arquivado (PF não viu indícios)",
+  "data": "2020-02-03",
+  "data_texto": "03/02/2020 (segundo a Wikipédia)",
+  "defesa": "Negava os crimes.",
+  "fontes": [
+   "IstoÉ (com base na Folha)",
+   "Wikipédia (Caso Queiroz)"
+  ],
+  "origem": "07"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "TSE: post que associava Lula ao PCC e ao CV",
+  "acusacao": "Propaganda irregular. PROVADO em decisão do TSE: multa de R$ 5 mil.",
+  "orgao": "TSE",
+  "estagio": "Condenado não definitivo (eleitoral)",
+  "data": "2026-09-28",
+  "data_texto": "Mérito julgado em 28/09/2026",
+  "defesa": "A campanha não se manifestou.",
+  "fontes": [
+   "Imirante, 09/10/2026"
+  ],
+  "origem": "07"
+ },
+ {
+  "pessoa": "Flávio Bolsonaro",
+  "pessoa_id": "flavio-bolsonaro",
+  "caso": "TSE: remoção de posts com IA contra Lula",
+  "acusacao": "Associação de Lula a facções e uso de IA sem rótulo. Remoção em 24 h, por unanimidade.",
+  "orgao": "TSE (relator André Mendonça)",
+  "estagio": "Fora da escala penal (ordem de remoção)",
+  "data": "2026-10-08",
+  "data_texto": "08/10/2026",
+  "defesa": "A campanha não se manifestou. Nunes Marques via crítica à política de segurança.",
+  "fontes": [
+   "Imirante, 09/10/2026"
+  ],
+  "origem": "07"
+ }
+]

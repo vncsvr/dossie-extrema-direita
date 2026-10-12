@@ -1,0 +1,407 @@
+[
+ {
+  "id": "pq-01",
+  "escopo": "personagem",
+  "alvo": "jair-bolsonaro",
+  "pergunta": "Quando o STF julga a revisão criminal da trama golpista, e em qual colegiado?",
+  "fato_base": "Defesa de Bolsonaro desiste de pedir suspensão da pena",
+  "evento_id": "2026-09-24-defesa-de-bolsonaro-desiste-de-pedir-suspensao-d",
+  "fontes": [
+   "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/trama-golpista-defesa-de-bolsonaro-desiste-de-suspensao-da-pena"
+  ]
+ },
+ {
+  "id": "pq-02",
+  "escopo": "personagem",
+  "alvo": "jair-bolsonaro",
+  "pergunta": "Moraes já decidiu sobre o pedido da PGR de arquivar o inquérito das joias?",
+  "fato_base": "PGR pede arquivamento do inquérito das joias sauditas",
+  "evento_id": "2026-03-05-pgr-pede-arquivamento-do-inquerito-das-joias-sau",
+  "fontes": [
+   "https://www.cnnbrasil.com.br/politica/pgr-pede-ao-stf-arquivamento-de-inquerito-sobre-joias-dadas-a-bolsonaro/"
+  ]
+ },
+ {
+  "id": "pq-03",
+  "escopo": "personagem",
+  "alvo": "jair-bolsonaro",
+  "pergunta": "Qual foi a pauta oficial da reunião de julho de 2021 com o diretor da CIA? Há registro público dela?",
+  "fato_base": "O diretor da CIA, Burns, vai a Brasília e se reúne com Bolsonaro, Heleno e Ramagem",
+  "evento_id": "2021-07-o-diretor-da-cia-burns-vai-a-brasilia-e-se-reune",
+  "fontes": [
+   "https://www.euronews.com/2022/05/06/uk-brazil-election-usa-exclusive",
+   "https://www.cnnbrasil.com.br/politica/heleno-admite-conversa-com-cia-mas-nega-que-tenha-tratado-de-eleicoes/"
+  ]
+ },
+ {
+  "id": "pq-04",
+  "escopo": "personagem",
+  "alvo": "flavio-bolsonaro",
+  "pergunta": "O MP-RJ vai usar a possibilidade, que ele mesmo apontou em 2022, de reabrir o caso com provas válidas?",
+  "fato_base": "TJ-RJ rejeita a denúncia da rachadinha",
+  "evento_id": "2022-05-16-tj-rj-rejeita-a-denuncia-da-rachadinha",
+  "fontes": [
+   "Conjur, 16/05/2022",
+   "G1, 11/07/2024"
+  ]
+ },
+ {
+  "id": "pq-05",
+  "escopo": "personagem",
+  "alvo": "flavio-bolsonaro",
+  "pergunta": "Qual foi a pauta da reunião com Trump fora da agenda oficial? A Casa Branca registrou o encontro?",
+  "fato_base": "Trump recebe Flávio Bolsonaro (com Eduardo) no Salão Oval, fora da agenda oficial",
+  "evento_id": "2026-05-26-trump-recebe-flavio-bolsonaro-com-eduardo-no-sal",
+  "fontes": [
+   "https://www.congressoemfoco.com.br/noticia/119196/flavio-bolsonaro-publica-foto-com-donald-trump-no-salao-oval",
+   "https://ohoje.com/2026/05/26/donald-trump-recebe-flavio-bolsonaro-na-casa-branca/"
+  ]
+ },
+ {
+  "id": "pq-06",
+  "escopo": "personagem",
+  "alvo": "flavio-bolsonaro",
+  "pergunta": "Quem pagou as postagens marcadas como parceria paga? A prestação de contas final, em 14/11/2026, vai mostrar?",
+  "fato_base": "Pelo menos 11 contas de fora do Brasil (entre elas Matt Gaetz) publicam no X posts…",
+  "evento_id": "2026-09-18-pelo-menos-11-contas-de-fora-do-brasil-entre-ela",
+  "fontes": [
+   "https://www.aosfatos.org/noticias/posts-pro-flavio-elo-polymarket-rede-transnacional-desinformacao/",
+   "https://www.jb.com.br/brasil/justica/2026/09/1061004-contas-estrangeiras-promovem-flavio-bolsonaro-em-posts-pagos-no-x.html"
+  ]
+ },
+ {
+  "id": "pq-07",
+  "escopo": "personagem",
+  "alvo": "eduardo-bolsonaro",
+  "pergunta": "Quando a condenação por coação transita em julgado, e como a pena será executada com ele nos EUA?",
+  "fato_base": "O STF condena Eduardo Bolsonaro (4 a 0) por coação, por articular tarifa, vistos e…",
+  "evento_id": "2026-06-16-o-stf-condena-eduardo-bolsonaro-4-a-0-por-coacao",
+  "fontes": [
+   "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/por-unanimidade-stf-condena-eduardo-bolsonaro-no-caso-do-tarifaco",
+   "https://conjur.com.br/2026-set-19/stf-mantem-condenacao-de-eduardo-bolsonaro-por-coacao-no-curso-do-processo/"
+  ]
+ },
+ {
+  "id": "pq-08",
+  "escopo": "personagem",
+  "alvo": "eduardo-bolsonaro",
+  "pergunta": "Que registros oficiais do Congresso e do governo dos EUA documentam as reuniões do lobby por sanções a Moraes?",
+  "fato_base": "Eduardo Bolsonaro e o influenciador Paulo Figueiredo fizeram lobby no Congresso e no…",
+  "evento_id": "2025-05-eduardo-bolsonaro-e-o-influenciador-paulo-figuei",
+  "fontes": [
+   "https://apublica.org/2025/05/how-the-grandson-of-a-dictator-lobbies-for-sanctions-against-brazil-in-the-u-s/",
+   "https://www.jurist.org/news/2025/09/us-places-sanctions-on-individuals-close-to-judge-in-bolsonaro-case/",
+   "https://responsiblestatecraft.org/bolsonaro-trump-tarriffs"
+  ]
+ },
+ {
+  "id": "pq-09",
+  "escopo": "personagem",
+  "alvo": "alexandre-de-moraes",
+  "pergunta": "Qual foi o motivo oficial da retirada da sanção Magnitsky? O Tesouro dos EUA publicou justificativa?",
+  "fato_base": "Os EUA tiram Moraes da lista Magnitsky, sem motivo oficial",
+  "evento_id": "2025-12-12-os-eua-tiram-moraes-da-lista-magnitsky-sem-motiv",
+  "fontes": [
+   "https://ofac.treasury.gov/recent-actions/20251212",
+   "https://www.cbsnews.com/news/us-removes-brazilian-supreme-court-judge-alexandre-de-moraes-sanctions-list"
+  ]
+ },
+ {
+  "id": "pq-10",
+  "escopo": "personagem",
+  "alvo": "alexandre-de-moraes",
+  "pergunta": "Como a Justiça da Flórida decidiu o pedido do Brasil para extinguir a ação de Trump Media e Rumble?",
+  "fato_base": "Segundo a AGU, em relato do Correio da Manhã (08/07/2026), o Brasil pediu na Flórida a…",
+  "evento_id": "2026-07-07-segundo-a-agu-em-relato-do-correio-da-manha-08-0",
+  "fontes": [
+   "https://www.correiodamanha.com.br/nacional/brasil/2026/07/amp/300443-justica-dos-eua-amplia-prazo-para-empresa-de-trump-em-acao-contra-moraes.html",
+   "https://revistaoeste.com/politica/trump-media-e-rumble-ganham-novo-prazo-em-processo-nos-eua-contra-moraes/"
+  ]
+ },
+ {
+  "id": "pq-11",
+  "escopo": "personagem",
+  "alvo": "donald-trump-governo-trump",
+  "pergunta": "Quem recebe o US$ 1 milhão do programa \"Countering Lawfare and Censorship in Brazil\"? O edital é público?",
+  "fato_base": "US$ 1 milhão do Departamento de Estado reservado para o programa \"Countering Lawfare and…",
+  "evento_id": "2026-09-30-us-1-milhao-do-departamento-de-estado-reservado",
+  "fontes": [
+   "https://www.infomoney.com.br/politica/agu-pede-investigacao-sobre-us-1-milhao-dos-eua-para-grupos-contrarios-ao-stf/",
+   "https://timesbrasil.com.br/brasil/em-meio-a-tensao-com-brasil-eua-destinam-us-1-milhao-a-projeto-que-contesta-atuacao-do-stf/"
+  ]
+ },
+ {
+  "id": "pq-12",
+  "escopo": "personagem",
+  "alvo": "donald-trump-governo-trump",
+  "pergunta": "Qual era a ameaça que fez a embaixada fechar antes do 1º turno? Os EUA a detalharam à PF?",
+  "fato_base": "Embaixada e consulados dos EUA fecham 2 dias antes do 1º turno, \"por segurança\", e…",
+  "evento_id": "2026-10-02-embaixada-e-consulados-dos-eua-fecham-2-dias-ant",
+  "fontes": [
+   "https://www.correiobraziliense.com.br/mundo/2026/10/7513016-o-que-o-governo-dos-eua-diz-sobre-fechamento-de-embaixada-e-consulados-no-brasil-as-vesperas-da-eleicao.html",
+   "https://www.infomoney.com.br/mundo/eua-atribuem-a-seguranca-fechamento-de-embaixada-e-consulados-no-brasil-na-eleicao/"
+  ]
+ },
+ {
+  "id": "pq-13",
+  "escopo": "personagem",
+  "alvo": "steve-bannon",
+  "pergunta": "Bannon teve papel formal na campanha de 2018? Existe contrato, pagamento ou ato concreto registrado?",
+  "fato_base": "Bannon: \"Got to keep the jair thing behind the scenes\" (manter a coisa do Jair nos…",
+  "evento_id": "2018-10-12-bannon-got-to-keep-the-jair-thing-behind-the-sce",
+  "fontes": [
+   "https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615409.pdf"
+  ]
+ },
+ {
+  "id": "pq-14",
+  "escopo": "personagem",
+  "alvo": "steve-bannon",
+  "pergunta": "Qual é o registro original da fala de Bannon sobre Eduardo na posse de Trump?",
+  "fato_base": "Segundo coluna de Natalia Viana na Agência Pública (30/03/2026), Steve Bannon afirmou,…",
+  "evento_id": "2025-01-segundo-coluna-de-natalia-viana-na-agencia-publi",
+  "fontes": [
+   "https://www.folhape.com.br/politica/entrevista-eu-me-sacrificaria-diz-eduardo-bolsonaro-sobre/386680/",
+   "https://apublica.org/2026/03/o-moderado-candidato-flavio-bolsonaro-e-made-in-usa/"
+  ]
+ },
+ {
+  "id": "pq-15",
+  "escopo": "personagem",
+  "alvo": "lula",
+  "pergunta": "Que prova pública sustenta a acusação de que Flávio pediu o tarifaço?",
+  "fato_base": "O presidente Lula acusa o candidato Flávio Bolsonaro de ter pedido o tarifaço ao governo…",
+  "evento_id": "2026-05-26-o-presidente-lula-acusa-o-candidato-flavio-bolso",
+  "fontes": [
+   "https://www.moneytimes.com.br/pedi-expressamente-ao-presidente-trump-que-nao-taxasse-empresas-brasileiras-diz-flavio-bolsono-gaep/",
+   "https://www.congressoemfoco.com.br/noticia/120277/flavio-estende-viagem-nos-eua-para-novas-reunioes-com-aliados-de-trump",
+   "https://www.em.com.br/politica/2026/06/7435703-tarifaco-de-trump-testa-discurso-nacionalista-de-flavio-bolsonaro.html"
+  ]
+ },
+ {
+  "id": "pq-16",
+  "escopo": "personagem",
+  "alvo": "lula",
+  "pergunta": "Que fato concreto embasou a fala? A apuração da PF, arquivada em 07/10, achou algum indício?",
+  "fato_base": "Lula: os EUA \"vão tentar interferir aqui\"",
+  "evento_id": "2026-07-30-lula-os-eua-vao-tentar-interferir-aqui",
+  "fontes": [
+   "https://www.diariodepernambuco.com.br/politica/2026/07/11719978-eles-vao-tentar-interferir-aqui-declara-lula-sobre-eua-nas-eleicoes-2026.html"
+  ]
+ },
+ {
+  "id": "pq-17",
+  "escopo": "decada",
+  "alvo": "1960",
+  "pergunta": "Os arquivos operacionais da CIA sobre 1961-1964 já foram abertos? O que segue sob sigilo?",
+  "fato_base": "A CIA apoiou em segredo manifestações de rua antes do golpe",
+  "evento_id": "1961-a-cia-apoiou-em-segredo-manifestacoes-de-rua-ant",
+  "fontes": [
+   "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB118/index.htm"
+  ]
+ },
+ {
+  "id": "pq-18",
+  "escopo": "decada",
+  "alvo": "1960",
+  "pergunta": "O telegrama de Gordon é de 27, 28 ou 29 de março? As fontes não conciliam a data.",
+  "fato_base": "Gordon pede apoio dos EUA aos golpistas",
+  "evento_id": "1964-03-27-gordon-pede-apoio-dos-eua-aos-golpistas",
+  "fontes": [
+   "https://history.state.gov/historicaldocuments/frus1964-68v31/d187",
+   "https://nsarchive.gwu.edu/node/2298",
+   "https://history.state.gov/historicaldocuments/frus1964-68v31/ch5"
+  ]
+ },
+ {
+  "id": "pq-19",
+  "escopo": "decada",
+  "alvo": "1960",
+  "pergunta": "Há documento oficial dos EUA que prove repasses ao IBAD/IPES em 1962, e de quanto?",
+  "fato_base": "Órgãos ligados aos EUA financiaram candidatos conservadores em 1962 via IBAD/IPES",
+  "evento_id": "1962-orgaos-ligados-aos-eua-financiaram-candidatos-co",
+  "fontes": [
+   "https://www.gazetadopovo.com.br/vida-publica/especiais/50-anos-do-golpe-de-1964/frio-nos-tropicos-8f0qjynibmi1f0z48383pic7i",
+   "https://nacecnv-brasil.prceu.usp.br/en/documento-da-semana-indice-ideologico-dos-candidatos-das-eleicoes-de-1962/"
+  ]
+ },
+ {
+  "id": "pq-20",
+  "escopo": "decada",
+  "alvo": "1970",
+  "pergunta": "Qual foi o papel concreto do Brasil na Condor? Os cabos da CIA não o detalham.",
+  "fato_base": "Cabos da CIA descrevem a estrutura da Condor",
+  "evento_id": "1976-07-28-cabos-da-cia-descrevem-a-estrutura-da-condor",
+  "fontes": [
+   "https://nsarchive.gwu.edu/document/33622-document-4-cia-intelligence-information-cable-structure-and-operational-plans-condor",
+   "https://nsarchive.gwu.edu/document/33625-document-7-cia-intelligence-cable-further-developments-plans-and-intentions-condor",
+   "https://www.wola.org/analysis/condors-legacy-and-a-terrorist-assassination-in-washington-dc-that-could-have-been-prevented/"
+  ]
+ },
+ {
+  "id": "pq-21",
+  "escopo": "decada",
+  "alvo": "1970",
+  "pergunta": "O alerta de 1976 foi ou não enviado ao Brasil? As duas publicações do NSA divergem.",
+  "fato_base": "Kissinger recua de alerta sobre a Condor",
+  "evento_id": "1976-09-16-kissinger-recua-de-alerta-sobre-a-condor",
+  "fontes": [
+   "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB312/index.htm",
+   "https://www.wola.org/analysis/condors-legacy-and-a-terrorist-assassination-in-washington-dc-that-could-have-been-prevented/"
+  ]
+ },
+ {
+  "id": "pq-22",
+  "escopo": "decada",
+  "alvo": "1970",
+  "pergunta": "Como a exclusão do §2º da Lei da Anistia foi aplicada na prática, comparada ao tratamento dado a agentes do Estado?",
+  "fato_base": "Lei da Anistia (Lei 6.683)",
+  "evento_id": "1979-08-28-lei-da-anistia-lei-6-683",
+  "fontes": [
+   "https://www.planalto.gov.br/ccivil_03/leis/l6683.htm",
+   "https://www.migalhas.com.br/depeso/109059/a-lei-da-anistia-entre-presente-e-futuro"
+  ]
+ },
+ {
+  "id": "pq-23",
+  "escopo": "decada",
+  "alvo": "1980",
+  "pergunta": "Como a regra de 1988 (tortura insuscetível de anistia) se relaciona com a validação da Lei da Anistia pelo STF em 2010?",
+  "fato_base": "Promulgação da Constituição de 1988",
+  "evento_id": "1988-10-05-promulgacao-da-constituicao-de-1988",
+  "fontes": [
+   "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  ]
+ },
+ {
+  "id": "pq-24",
+  "escopo": "decada",
+  "alvo": "1980",
+  "pergunta": "Quais registros oficiais da transição de 1985 estão publicados? A fonte do dossiê ainda precisa ser trocada.",
+  "fato_base": "Fim do regime militar: Sarney assume no lugar de Tancredo",
+  "evento_id": "1985-03-15-fim-do-regime-militar-sarney-assume-no-lugar-de",
+  "fontes": [
+   "https://www.folhavitoria.com.br/politica/especial-50-anos-reacao-ao-ai-5-leva-a-democracia-e-a-constituicao/"
+  ]
+ },
+ {
+  "id": "pq-25",
+  "escopo": "decada",
+  "alvo": "1990",
+  "pergunta": "Qual é a transcrição original da entrevista de 1999 e o nome do programa? A Band guarda o arquivo?",
+  "fato_base": "Bolsonaro prega guerra civil e fuzilamento de FHC",
+  "evento_id": "1999-bolsonaro-prega-guerra-civil-e-fuzilamento-de-fh",
+  "fontes": [
+   "https://oantagonista.com.br/brasil/temer-ja-salvou-bolsonaro-com-carta-em-1999/",
+   "https://atarde.com.br/politica/bolsonaro-ja-admitiu-voto-em-lula-e-pregou-fuzilamento-de-fhc-relembre-1362804"
+  ]
+ },
+ {
+  "id": "pq-26",
+  "escopo": "decada",
+  "alvo": "1990",
+  "pergunta": "Qual é o texto integral da carta de retratação de 1999?",
+  "fato_base": "Bolsonaro prega guerra civil e fuzilamento de FHC",
+  "evento_id": "1999-bolsonaro-prega-guerra-civil-e-fuzilamento-de-fh",
+  "fontes": [
+   "https://oantagonista.com.br/brasil/temer-ja-salvou-bolsonaro-com-carta-em-1999/",
+   "https://atarde.com.br/politica/bolsonaro-ja-admitiu-voto-em-lula-e-pregou-fuzilamento-de-fhc-relembre-1362804"
+  ]
+ },
+ {
+  "id": "pq-27",
+  "escopo": "decada",
+  "alvo": "2000",
+  "pergunta": "Quantas homenagens Flávio concedeu a policiais, e quantos homenageados foram denunciados depois?",
+  "fato_base": "Medalha Tiradentes entregue a Adriano na prisão",
+  "evento_id": "2005-09-09-medalha-tiradentes-entregue-a-adriano-na-prisao",
+  "fontes": [
+   "ALERJ, PR 1067/2005 (scpro0307.nsf/…/66ed6d7f6f4d035583257021004902c3)",
+   "Veja, 25/01/2019",
+   "Congresso em Foco, 16/02/2020"
+  ]
+ },
+ {
+  "id": "pq-28",
+  "escopo": "decada",
+  "alvo": "2000",
+  "pergunta": "Como Flávio votou no pedido de CPI de 2007? Existe ata dessa votação?",
+  "fato_base": "Flávio defende legalizar as milícias",
+  "evento_id": "2007-03-16-flavio-defende-legalizar-as-milicias",
+  "fontes": [
+   "Terra/O Dia, 16/03/2007",
+   "G1, 22/01/2019"
+  ]
+ },
+ {
+  "id": "pq-29",
+  "escopo": "decada",
+  "alvo": "2010",
+  "pergunta": "Qual foi o desfecho do pedido de cassação por apologia a Ustra no Conselho de Ética?",
+  "fato_base": "Câmara abre o impeachment; Bolsonaro dedica o voto a Ustra",
+  "evento_id": "2016-04-17-camara-abre-o-impeachment-bolsonaro-dedica-o-vot",
+  "fontes": [
+   "https://ihu.unisinos.br/noticias/553943-dircurso-de-bolsonaro-deixa-ativistas-estarrecidos-e-leva-oab-a-pedir-sua-cassacao"
+  ]
+ },
+ {
+  "id": "pq-30",
+  "escopo": "decada",
+  "alvo": "2010",
+  "pergunta": "O que os registros oficiais do DRCI mostram sobre a visita do DOJ a Curitiba em 2015?",
+  "fato_base": "Cooperação informal da Lava Jato com o DOJ (Vaza Jato)",
+  "evento_id": "2015-10-cooperacao-informal-da-lava-jato-com-o-doj-vaza",
+  "fontes": [
+   "https://intercept.com.br/2020/03/12/lava-jato-driblou-governo-ajudar-americanos-doj/",
+   "https://www.poder360.com.br/justica/ministerio-deve-dizer-se-houve-cooperacao-entre-lava-jato-e-eua/"
+  ]
+ },
+ {
+  "id": "pq-31",
+  "escopo": "decada",
+  "alvo": "2010",
+  "pergunta": "Os dados que a NSA coletou sobre a Petrobras tiveram uso comercial? Nada nas fontes liga isso à Lava Jato.",
+  "fato_base": "Petrobras como alvo da NSA; finalidade comercial é alegada",
+  "evento_id": "2013-09-08-petrobras-como-alvo-da-nsa-finalidade-comercial",
+  "fontes": [
+   "https://www.theguardian.com/world/2013/sep/09/nsa-spying-brazil-oil-petrobras"
+  ]
+ },
+ {
+  "id": "pq-32",
+  "escopo": "decada",
+  "alvo": "2020",
+  "pergunta": "A investigação sobre a espionagem dos auditores da Receita vai resultar em denúncia, e contra quem?",
+  "fato_base": "PF: Abin paralela espionou auditores do caso da rachadinha",
+  "evento_id": "2024-07-11-pf-abin-paralela-espionou-auditores-do-caso-da-r",
+  "fontes": [
+   "G1, 11/07/2024"
+  ]
+ },
+ {
+  "id": "pq-33",
+  "escopo": "decada",
+  "alvo": "2020",
+  "pergunta": "Qual foi a conclusão do inquérito e da nova perícia sobre a morte de Adriano da Nóbrega?",
+  "fato_base": "Adriano da Nóbrega é morto na Bahia",
+  "evento_id": "2020-02-09-adriano-da-nobrega-e-morto-na-bahia",
+  "fontes": [
+   "G1, 09/02/2020",
+   "Folha, 10/02/2020",
+   "Estadão, 09/02/2020"
+  ]
+ },
+ {
+  "id": "pq-34",
+  "escopo": "decada",
+  "alvo": "2020",
+  "pergunta": "As condenações do caso Marielle já transitaram em julgado?",
+  "fato_base": "STF condena os irmãos Brazão pelo caso Marielle",
+  "evento_id": "2026-02-25-stf-condena-os-irmaos-brazao-pelo-caso-marielle",
+  "fontes": [
+   "JB",
+   "CNN",
+   "Estado de Minas"
+  ]
+ }
+]

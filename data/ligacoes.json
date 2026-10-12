@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "lig-001",
+  "de": "eduardo-bolsonaro",
+  "para": "the-movement",
+  "tipo": "cargo_ou_membro",
+  "descricao": "Anunciado como líder do The Movement no Brasil e representante para a América Latina. Mês (jan ou fev) não confirmado. Segundo a Pública, o grupo esfriou depois.",
+  "data": "2019",
+  "data_fim": null,
+  "data_texto": "2019",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.tvn-2.com/mundo/presidente-brasil-grupo-steve-bannon_1_1301135.html",
+   "https://apublica.org/2025/08/eduardo-bolsonaro-e-um-projeto-de-steve-bannon/"
+  ]
+ },
+ {
+  "id": "lig-002",
+  "de": "eduardo-bolsonaro",
+  "para": "extrema-direita-dos-eua-e-da-america-latina",
+  "tipo": "reuniao_documentada",
+  "descricao": "Pública com o consórcio CLIP: ao menos 43 reuniões com a extrema direita latino-americana e mais de 80 com a dos EUA desde 2018 (cerca de 125). Número é piso. Encontros, não financiamento.",
+  "data": "2023-08-07",
+  "data_fim": null,
+  "data_texto": "2023-08-07",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://apublica.org/2023/08/eduardo-bolsonaro-teve-125-reunioes-com-membros-da-extrema-direita-do-continente/"
+  ]
+ },
+ {
+  "id": "lig-003",
+  "de": "eduardo-bolsonaro",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Consta entre os signatários da Carta de Madrid, manifesto da Fundación Disenso (Vox). Data da assinatura dele não encontrada.",
+  "data": "2020-10-26",
+  "data_fim": null,
+  "data_texto": "2020-10-26 (lançamento da carta)",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.brasildefato.com.br/2021/09/13/partido-espanhol-vox-avanca-projeto-de-plataforma-de-extrema-direita-na-america-latina",
+   "https://elordenmundial.com/foro-madrid-ultraderecha-vox-milei/"
+  ]
+ },
+ {
+  "id": "lig-004",
+  "de": "jair-bolsonaro",
+  "para": "viktor-orban",
+  "tipo": "reuniao_documentada",
+  "descricao": "Visita oficial a Budapeste. Memorandos de defesa, ações humanitárias e gestão de recursos hídricos.",
+  "data": "2022-02-17",
+  "data_fim": null,
+  "data_texto": "2022-02-17",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.tnh1.com.br/noticia/nid/bolsonaro-se-reune-com-o-presidente-e-o-primeiro-ministro-da-hungria/"
+  ]
+ },
+ {
+  "id": "lig-005",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-hungria-2022",
+  "tipo": "convidado",
+  "descricao": "Anunciado pelo organizador (Telex, 26/01/2022) para março. O evento foi adiado para 19-20/05/2022. Presença e fala não confirmadas.",
+  "data": "2022-05-19",
+  "data_fim": null,
+  "data_texto": "2022-05-19",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://telex.hu/belfold/2022/01/26/bolsonaro-fia-a-legnagyobb-nev-a-budapestre-a-valaszasok-elott-egy-hettel-szervezett-amerikai-republikanus-szuperkonferencian",
+   "https://www.portfolio.hu/en/economy/20220511/hungarys-orban-to-be-keynote-speaker-alongside-trumps-favourite-people-544131"
+  ]
+ },
+ {
+  "id": "lig-006",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-brasil-2022",
+  "tipo": "anfitriao",
+  "descricao": "Eduardo recebeu Milei e Kast no CPAC Brasil em Campinas. A fonte não diz que ele organizou.",
+  "data": "2022-06",
+  "data_fim": null,
+  "data_texto": "2022-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://foreignpolicy.com/2022/06/17/cpac-brazil-far-right-south-america-bolsonaro-kast-milei-trump"
+  ]
+ },
+ {
+  "id": "lig-007",
+  "de": "javier-milei",
+  "para": "cpac-brasil-2022",
+  "tipo": "presente_em",
+  "descricao": "Recebido por Eduardo no CPAC Brasil em Campinas.",
+  "data": "2022-06",
+  "data_fim": null,
+  "data_texto": "2022-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://foreignpolicy.com/2022/06/17/cpac-brazil-far-right-south-america-bolsonaro-kast-milei-trump"
+  ]
+ },
+ {
+  "id": "lig-008",
+  "de": "jose-antonio-kast",
+  "para": "cpac-brasil-2022",
+  "tipo": "presente_em",
+  "descricao": "Recebido por Eduardo no CPAC Brasil em Campinas.",
+  "data": "2022-06",
+  "data_fim": null,
+  "data_texto": "2022-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://foreignpolicy.com/2022/06/17/cpac-brazil-far-right-south-america-bolsonaro-kast-milei-trump"
+  ]
+ },
+ {
+  "id": "lig-009",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-argentina-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Orador no Hilton de Puerto Madero ('Se Trump regressar, Bolsonaro também regressará'). A New Lines diz que ele falou à distância.",
+  "data": "2024-12-04",
+  "data_fim": null,
+  "data_texto": "2024-12-04",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://ihu.unisinos.br/646810-milei-protagoniza-a-cupula-internacional-da-ultradireita-em-buenos-aires-com-ataques-a-pedro-sanchez-lula-e-petro",
+   "https://newlinesmag.com/reportage/cpac-argentina-signals-the-rise-of-a-new-kind-of-diplomacy/"
+  ]
+ },
+ {
+  "id": "lig-010",
+  "de": "jason-miller",
+  "para": "cpac-brasil-2021",
+  "tipo": "palestrou_em",
+  "descricao": "Fez o discurso de encerramento do CPAC Brasil em Brasília (3-4/09/2021). Estava no Brasil a convite de Eduardo, segundo o Aos Fatos.",
+  "data": "2021-09-03",
+  "data_fim": null,
+  "data_texto": "2021-09-03",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.foxnews.com/world/ex-trump-aide-jason-miller-detained-in-brazil-cpac.amp",
+   "https://talkingpointsmemo.com/muckraker/what-is-cpac-doing-in-brazil"
+  ]
+ },
+ {
+  "id": "lig-011",
+  "de": "alexandre-de-moraes",
+  "para": "jason-miller",
+  "tipo": "outro",
+  "descricao": "Miller foi interrogado por cerca de 3 horas no aeroporto de Brasília no inquérito dos atos antidemocráticos. Ele disse que não houve acusação. Parte da imprensa usou 'detido'.",
+  "data": "2021-09-07",
+  "data_fim": null,
+  "data_texto": "2021-09-07",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.foxnews.com/world/ex-trump-aide-jason-miller-detained-in-brazil-cpac.amp",
+   "https://www.metropoles.com/colunas/paulo-cappelli/quem-e-o-assessor-de-trump-detido-por-moraes-em-brasilia-em-2021"
+  ]
+ },
+ {
+  "id": "lig-012",
+  "de": "eduardo-bolsonaro",
+  "para": "donald-trump-governo-trump",
+  "tipo": "reuniao_documentada",
+  "descricao": "Encontro com Trump em Mar-a-Lago após a derrota de Jair. Conteúdo não divulgado. Washington Post via DW.",
+  "data": "2022-11",
+  "data_fim": null,
+  "data_texto": "2022-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.opovo.com.br/noticias/mundo/2022/11/26/aliados-de-trump-vem-aconselhando-cla-bolsonaro-apos-derrota-diz-jornal.html"
+  ]
+ },
+ {
+  "id": "lig-013",
+  "de": "eduardo-bolsonaro",
+  "para": "jason-miller",
+  "tipo": "reuniao_documentada",
+  "descricao": "Almoço sobre 'censura digital', confirmado por Miller ao Washington Post.",
+  "data": "2022-11",
+  "data_fim": null,
+  "data_texto": "2022-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.opovo.com.br/noticias/mundo/2022/11/26/aliados-de-trump-vem-aconselhando-cla-bolsonaro-apos-derrota-diz-jornal.html"
+  ]
+ },
+ {
+  "id": "lig-014",
+  "de": "eduardo-bolsonaro",
+  "para": "steve-bannon",
+  "tipo": "reuniao_documentada",
+  "descricao": "Conversa sobre protestos e contestação eleitoral, confirmada por Bannon ao Washington Post.",
+  "data": "2022-11",
+  "data_fim": null,
+  "data_texto": "2022-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.opovo.com.br/noticias/mundo/2022/11/26/aliados-de-trump-vem-aconselhando-cla-bolsonaro-apos-derrota-diz-jornal.html"
+  ]
+ },
+ {
+  "id": "lig-015",
+  "de": "eduardo-bolsonaro",
+  "para": "donald-trump-governo-trump",
+  "tipo": "lobby",
+  "descricao": "Morando nos EUA desde fev/2025, diz cobrar autoridades americanas para aplicar a Lei Magnitsky a Moraes. Paulo Figueiredo confirmou reuniões em Washington sobre sanções, sem nomear interlocutores. Pedido a Scott Bessent: não verificado.",
+  "data": "2025-02",
+  "data_fim": "2025-09",
+  "data_texto": "2025-02 a 2025-09",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://sbtnews.sbt.com.br/noticia/politica/eduardo-bolsonaro-afirma-que-cobra-autoridades-americanas-para-que-magnitsky-seja-efetivamente-aplicada-contra-moraes",
+   "https://www.gazetadopovo.com.br/mundo/eduardo-bolsonaro-tera-reunioes-em-washington-para-tratar-de-sancoes-contra-moraes/"
+  ]
+ },
+ {
+  "id": "lig-016",
+  "de": "eduardo-bolsonaro",
+  "para": "departamento-de-estado-dos-eua",
+  "tipo": "outro",
+  "descricao": "Atua sem registro FARA, segundo o advogado Josh Rosenstein na Responsible Statecraft. O Departamento de Estado disse não ter recebido notificação. Mandato perdido por faltas em 18/12/2025, o que tira a base da isenção de eleito a partir daí. Sem dinheiro declarado.",
+  "data": "2025-08-08",
+  "data_fim": null,
+  "data_texto": "2025-08-08",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://sandlerreiff.com/rosenstein-quoted-in-responsible-statecraft-2/",
+   "https://www.migalhas.com.br/quentes/446726/mesa-diretora-da-camara-declara-perda-de-mandato-de-eduardo-e-ramagem"
+  ]
+ },
+ {
+  "id": "lig-017",
+  "de": "departamento-do-tesouro-dos-eua",
+  "para": "alexandre-de-moraes",
+  "tipo": "outro",
+  "descricao": "Inclusão na lista Magnitsky. O nexo com o lobby de Eduardo é alegado por ele e pela PGR.",
+  "data": "2025-07",
+  "data_fim": null,
+  "data_texto": "2025-07",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.poder360.com.br/poder-congresso/eduardo-comemora-uso-da-lei-magnitsky-contra-mulher-de-moraes/ (403 na checagem)"
+  ]
+ },
+ {
+  "id": "lig-018",
+  "de": "departamento-do-tesouro-dos-eua",
+  "para": "viviane-barci-de-moraes-e-lex-instituto",
+  "tipo": "outro",
+  "descricao": "Inclusão na lista Magnitsky. Revogação em dez/2025: não verificada.",
+  "data": "2025-09",
+  "data_fim": null,
+  "data_texto": "2025-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.poder360.com.br/poder-congresso/eduardo-comemora-uso-da-lei-magnitsky-contra-mulher-de-moraes/ (403 na checagem)"
+  ]
+ },
+ {
+  "id": "lig-019",
+  "de": "pgr-paulo-gonet",
+  "para": "eduardo-bolsonaro",
+  "tipo": "outro",
+  "descricao": "Denúncia por coação no curso do processo (sanções dos EUA para pressionar o STF). Enviada a Hugo Motta em 23/09/2025. Voto de Moraes pelo recebimento em 14/11/2025.",
+  "data": "2025-09",
+  "data_fim": null,
+  "data_texto": "2025-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.metropoles.com/brasil/moraes-envia-denuncia-da-pgr-contra-eduardo-bolsonaro-a-hugo-motta",
+   "https://www.tupi.fm/?p=2205750"
+  ]
+ },
+ {
+  "id": "lig-020",
+  "de": "pgr-paulo-gonet",
+  "para": "paulo-figueiredo",
+  "tipo": "outro",
+  "descricao": "Mesma denúncia. Caso desmembrado; estágio atual não verificado. Acusação da PGR.",
+  "data": "2025-09",
+  "data_fim": null,
+  "data_texto": "2025-09",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.diariodepernambuco.com.br/politica/2025/09/11696496-eduardo-e-figueiredo-tem-15-dias-para-se-manifestarem-sobre-denuncia.html"
+  ]
+ },
+ {
+  "id": "lig-021",
+  "de": "stf-primeira-turma",
+  "para": "eduardo-bolsonaro",
+  "tipo": "outro",
+  "descricao": "Condenação unânime por coação no curso do processo, ligada a estimular o governo Trump a revogar vistos e aplicar a Magnitsky. InfoMoney: 4 anos e 2 meses, semiaberto. Gazeta do Povo: 4 anos e inelegibilidade. Recursos não verificados.",
+  "data": "2026-06-16",
+  "data_fim": null,
+  "data_texto": "2026-06-16",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.infomoney.com.br/?p=3374815",
+   "https://www.diariodepernambuco.com.br/politica/2026/06/11716718-por-unanimidade-stf-condena-eduardo-bolsonaro-no-caso-do-tarifaco.html"
+  ]
+ },
+ {
+  "id": "lig-022",
+  "de": "flavio-bolsonaro",
+  "para": "donald-trump-governo-trump",
+  "tipo": "reuniao_documentada",
+  "descricao": "Recebido por Trump no Salão Oval, fora da agenda pública, em encontro articulado por Eduardo e Figueiredo. Eduardo aparece em foto. O governo dos EUA não confirmou oficialmente. Não há acordo documentado.",
+  "data": "2026-05-26",
+  "data_fim": null,
+  "data_texto": "2026-05-26",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.correiodamanha.com.br/colunistas/paulo-cappelli/2026/05/amp/288807-flavio-bolsonaro-e-recebido-por-trump-na-casa-branca.html",
+   "https://oimparcial.com.br/noticias/2026/05/flavio-e-eduardo-bolsonaro-se-reunem-com-trump-nos-eua-e-encontro-movimenta-cenario-politico/",
+   "https://diariodonordeste.verdesmares.com.br/pontopoder/flavio-bolsonaro-e-recebido-por-trump-nos-estados-unidos-em-meio-a-crise-com-vorcaro-1.3766723"
+  ]
+ },
+ {
+  "id": "lig-023",
+  "de": "flavio-bolsonaro",
+  "para": "prageru",
+  "tipo": "apoio_publico",
+  "descricao": "Entrevista no programa Real Talk. Fonte única de veículo alinhado, não aberta na checagem.",
+  "data": "2026",
+  "data_fim": null,
+  "data_texto": "2026",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.revistaoeste.com/politica/nos-eua-flavio-denuncia-prisao-de-bolsonaro-e-critica-moraes/"
+  ]
+ },
+ {
+  "id": "lig-024",
+  "de": "jason-miller",
+  "para": "flavio-bolsonaro",
+  "tipo": "apoio_publico",
+  "descricao": "Post no X com foto, chamando Flávio de 'nosso próximo presidente', durante a CPAC EUA em Dallas.",
+  "data": "2026-03-27",
+  "data_fim": null,
+  "data_texto": "2026-03-27",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.em.com.br/politica/2026/03/amp/7385242-conselheiro-de-trump-sobre-flavio-bolsonaro-proximo-presidente-do-brasil.html"
+  ]
+ },
+ {
+  "id": "lig-025",
+  "de": "steve-bannon",
+  "para": "eduardo-bolsonaro",
+  "tipo": "apoio_publico",
+  "descricao": "Em festa paralela à posse de Trump, Bannon disse que Eduardo seria presidente 'em um futuro não tão distante'.",
+  "data": "2025-01",
+  "data_fim": null,
+  "data_texto": "2025-01",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://apublica.org/2025/08/eduardo-bolsonaro-e-um-projeto-de-steve-bannon/"
+  ]
+ },
+ {
+  "id": "lig-026",
+  "de": "fundacion-disenso",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "organizou",
+  "descricao": "Criou o Foro Madrid e a Carta de Madrid. Em dez/2021: cerca de 150 líderes e mais de 10.000 pessoas signatárias (The Objective). Encontros em Bogotá (2022), Lima (2023), Buenos Aires (2024), Assunção (2025). Financiamento não documentado.",
+  "data": "2020-10-26",
+  "data_fim": null,
+  "data_texto": "2020-10-26",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://elordenmundial.com/foro-madrid-ultraderecha-vox-milei/",
+   "https://www.e-publicacoes.uerj.br/maracanan/article/download/87585/56338/366909",
+   "https://www.emol.com/noticias/Nacional/2026/08/28/1209834/foro-madrid-cumbre-derecha-kast.html"
+  ]
+ },
+ {
+  "id": "lig-027",
+  "de": "jose-antonio-kast",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Um dos primeiros signatários. Expositor em Buenos Aires (2024) e Assunção (2025).",
+  "data": "2020",
+  "data_fim": null,
+  "data_texto": "2020",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.emol.com/noticias/Nacional/2026/08/28/1209834/foro-madrid-cumbre-derecha-kast.html",
+   "https://en.wikipedia.org/wiki/Madrid_Forum"
+  ]
+ },
+ {
+  "id": "lig-028",
+  "de": "javier-milei",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Lista de signatários da Wikipedia; El Orden Mundial também o cita. Falta documento do Foro ou veículo de referência. Vale também para Victoria Villarruel e José Luis Espert (só Wikipedia).",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://en.wikipedia.org/wiki/Madrid_Forum",
+   "https://elordenmundial.com/foro-madrid-ultraderecha-vox-milei/"
+  ]
+ },
+ {
+  "id": "lig-029",
+  "de": "rafael-lopez-aliaga",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Citado como signatário na Wikipedia. Veículo de imprensa não reverificado.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://en.wikipedia.org/wiki/Madrid_Forum"
+  ]
+ },
+ {
+  "id": "lig-030",
+  "de": "keiko-fujimori",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Só a lista da Wikipedia. A La Nación (21/10/2021) a associa à aliança do Vox sem afirmar assinatura.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://en.wikipedia.org/wiki/Madrid_Forum",
+   "https://www.lanacion.com.ar/el-mundo/vox-la-ultraderecha-de-espana-arma-una-alianza-anticomunista-en-america-latina-nid21102021/"
+  ]
+ },
+ {
+  "id": "lig-031",
+  "de": "santiago-abascal",
+  "para": "abelardo-de-la-espriella",
+  "tipo": "reuniao_documentada",
+  "descricao": "Reunião com o então candidato à presidência da Colômbia, que assinou a Carta de Madrid. Texto não aberto (403); base no título.",
+  "data": "2026-01-15",
+  "data_fim": null,
+  "data_texto": "2026-01-15",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.eldebate.com/espana/20260115/abascal-reune-espriella-candidato-presidir-colombia-firma-carta-madrid-junto-meloni-milei-corina-machado_374677.html"
+  ]
+ },
+ {
+  "id": "lig-032",
+  "de": "javier-milei",
+  "para": "cpac-argentina-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Discursou no fim do programa. Lara Trump abriu; Shapiro e Kari Lake falaram.",
+  "data": "2024-12-04",
+  "data_fim": null,
+  "data_texto": "2024-12-04",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://buenosairesherald.com/world/at-cpac-argentina-a-preview-of-donald-trumps-second-term",
+   "https://newlinesmag.com/reportage/cpac-argentina-signals-the-rise-of-a-new-kind-of-diplomacy/"
+  ]
+ },
+ {
+  "id": "lig-033",
+  "de": "acu-cpac",
+  "para": "cpac-argentina-2024",
+  "tipo": "organizou",
+  "descricao": "Primeira CPAC argentina, Hilton Puerto Madero, com a CPAC Argentina (CEO Soledad Cedro). Os Schlapp abriram; Mercedes entre as organizadoras. Abascal e Shapiro só anunciados na prévia.",
+  "data": "2024-12-04",
+  "data_fim": null,
+  "data_texto": "2024-12-04",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://buenosairesherald.com/politics/far-right-leaders-gather-in-buenos-aires-for-first-ever-cpac-argentina",
+   "https://newlinesmag.com/reportage/cpac-argentina-signals-the-rise-of-a-new-kind-of-diplomacy/"
+  ]
+ },
+ {
+  "id": "lig-034",
+  "de": "javier-milei",
+  "para": "cpac-eua-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Programado para sábado, logo após apresentação de 10 minutos de Eduardo. Arredores de Washington. Trump foi a atração principal.",
+  "data": "2024-02-24",
+  "data_fim": null,
+  "data_texto": "2024-02-24",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://buenosairesherald.com/politics/milei-to-speak-at-conservative-pro-trump-event-in-washington",
+   "https://lamarea.com/2024/02/22/el-trumpismo-reune-a-abascal-milei-y-bukele-en-su-cumbre-anual"
+  ]
+ },
+ {
+  "id": "lig-035",
+  "de": "nayib-bukele",
+  "para": "cpac-eua-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Programado para quinta-feira.",
+  "data": "2024-02-22",
+  "data_fim": null,
+  "data_texto": "2024-02-22",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://lamarea.com/2024/02/22/el-trumpismo-reune-a-abascal-milei-y-bukele-en-su-cumbre-anual"
+  ]
+ },
+ {
+  "id": "lig-036",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-eua-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Apresentação de 10 minutos antes de Milei, segundo a programação.",
+  "data": "2024-02-24",
+  "data_fim": null,
+  "data_texto": "2024-02-24",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://buenosairesherald.com/politics/milei-to-speak-at-conservative-pro-trump-event-in-washington"
+  ]
+ },
+ {
+  "id": "lig-037",
+  "de": "steve-bannon",
+  "para": "cpac-mexico-2022",
+  "tipo": "palestrou_em",
+  "descricao": "Falou por videoconferência no 1º CPAC em espanhol, Westin Santa Fe, Cidade do México.",
+  "data": "2022-11-18",
+  "data_fim": null,
+  "data_texto": "2022-11-18",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://eleconomista.com.ar/internacional/la-derecha-latinoamericana-reune-mexico-participa-javier-milei-n57707"
+  ]
+ },
+ {
+  "id": "lig-038",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-mexico-2022",
+  "tipo": "presente_em",
+  "descricao": "Citado como presente, sem fala descrita.",
+  "data": "2022-11-18",
+  "data_fim": null,
+  "data_texto": "2022-11-18",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://eleconomista.com.ar/internacional/la-derecha-latinoamericana-reune-mexico-participa-javier-milei-n57707"
+  ]
+ },
+ {
+  "id": "lig-039",
+  "de": "jose-antonio-kast",
+  "para": "cpac-mexico-2022",
+  "tipo": "presente_em",
+  "descricao": "Citado como presente, sem fala descrita.",
+  "data": "2022-11-18",
+  "data_fim": null,
+  "data_texto": "2022-11-18",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://eleconomista.com.ar/internacional/la-derecha-latinoamericana-reune-mexico-participa-javier-milei-n57707"
+  ]
+ },
+ {
+  "id": "lig-040",
+  "de": "santiago-abascal",
+  "para": "cpac-mexico-2022",
+  "tipo": "presente_em",
+  "descricao": "Citado como presente, sem fala descrita.",
+  "data": "2022-11-18",
+  "data_fim": null,
+  "data_texto": "2022-11-18",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://eleconomista.com.ar/internacional/la-derecha-latinoamericana-reune-mexico-participa-javier-milei-n57707"
+  ]
+ },
+ {
+  "id": "lig-041",
+  "de": "javier-milei",
+  "para": "cpac-mexico-2022",
+  "tipo": "palestrou_em",
+  "descricao": "Discurso programado ('Viva la libertad', sábado).",
+  "data": "2022-11-19",
+  "data_fim": null,
+  "data_texto": "2022-11-19",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://eleconomista.com.ar/internacional/la-derecha-latinoamericana-reune-mexico-participa-javier-milei-n57707"
+  ]
+ },
+ {
+  "id": "lig-042",
+  "de": "fundacion-atlas",
+  "para": "javier-milei",
+  "tipo": "outro",
+  "descricao": "Liberty Prize de 2018. Milei integrou o conselho consultivo da Fundación Libre (snapshot de 18/03/2021) e participou de eventos de institutos parceiros. Prêmio e participação, não financiamento. Fonte única, investigativa/advocacy.",
+  "data": "2018",
+  "data_fim": null,
+  "data_texto": "2018",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.desmog.com/2023/08/22/javier-milei-argentina-atlas-network/"
+  ]
+ },
+ {
+  "id": "lig-043",
+  "de": "atlas-network",
+  "para": "think-tanks-da-america-latina",
+  "tipo": "financiou_declarado",
+  "descricao": "Cerca de US$ 12 milhões entre 2010 e 2021, segundo declarações fiscais dos EUA lidas pela DeSmog, sobretudo para 'educação econômica'. Não vai a partidos nem a candidatos. A Atlas não publica dados por país.",
+  "data": "2010",
+  "data_fim": "2021",
+  "data_texto": "2010-2021",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.desmog.com/2023/08/22/javier-milei-argentina-atlas-network/",
+   "https://www.desmog.com/2023/08/25/brazil-rightwing-think-tanks-align-with-agribusiness-to-regain-power/"
+  ]
+ },
+ {
+  "id": "lig-044",
+  "de": "tese-ufsc",
+  "para": "atlas-network",
+  "tipo": "outro",
+  "descricao": "Tese liga a ascensão de Milei e Kast à consolidação de institutos parceiros da Atlas. Interpretação da autora; resumo não aberto na checagem. Derrubar se ninguém ler o resumo.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://repositorio.ufsc.br/handle/123456789/275326"
+  ]
+ },
+ {
+  "id": "lig-045",
+  "de": "donald-trump-governo-trump",
+  "para": "javier-milei",
+  "tipo": "apoio_publico",
+  "descricao": "Recebeu Milei na Casa Branca com swap de US$ 20 bilhões em curso, antes das legislativas de 26/10/2025. A frase condicionando a ajuda à vitória fica ALEGADO até haver fonte que a transcreva.",
+  "data": "2025-10-14",
+  "data_fim": null,
+  "data_texto": "2025-10-14",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.ktul.com/news/nation-world/trump-welcomes-argentinas-milei-to-white-house-as-20-billion-currency-swap-deal-unfolds-us-treasury-scott-bessent-pesos-tariffs-israel-hamas-peace-deal-federal-reserve-midterm-elections"
+  ]
+ },
+ {
+  "id": "lig-046",
+  "de": "donald-trump-governo-trump",
+  "para": "jose-antonio-kast",
+  "tipo": "apoio_publico",
+  "descricao": "Depois do 2º turno: 'la persona a la que apoyé'. Kast 58,1% x Jara 41,8% (Servel preliminar). Rubio parabenizou. Sem endosso formal verificado antes do voto.",
+  "data": "2025-12-15",
+  "data_fim": null,
+  "data_texto": "2025-12-15",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.cnnchile.com/mundo/trump-felicita-kast-ganar-facilidad-segunda-vuelta-persona-excelente/",
+   "https://www.elmostrador.cl/noticias/pais/2025/12/15/la-persona-a-la-que-apoye-trump-celebra-victoria-de-kast-y-lo-elogia-desde-la-casa-blanca/"
+  ]
+ },
+ {
+  "id": "lig-047",
+  "de": "javier-milei",
+  "para": "jose-antonio-kast",
+  "tipo": "apoio_publico",
+  "descricao": "Depois da vitória: 'enorme alegría por el aplastante triunfo'. Kast marcou a primeira viagem como eleito a Buenos Aires para 16/12/2025. Sem apoio de Milei registrado antes do voto.",
+  "data": "2025-12-14",
+  "data_fim": null,
+  "data_texto": "2025-12-14",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.eldinamo.cl/politica/2025/12/15/kast-alista-su-primer-viaje-como-presidente-electo-se-reunira-con-javier-milei-en-argentina/"
+  ]
+ },
+ {
+  "id": "lig-048",
+  "de": "donald-trump-governo-trump",
+  "para": "nasry-asfura",
+  "tipo": "apoio_publico",
+  "descricao": "Endosso no Truth Social dias antes do voto de 30/11/2025 e anúncio da intenção de perdoar Juan Orlando Hernández. Resultado 40,3% x 39,5%. Perdão efetivo não verificado.",
+  "data": "2025-11",
+  "data_fim": null,
+  "data_texto": "2025-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.bostonglobe.com/2025/12/01/world/conservatives-virtually-tied-honduras-election-after-trump-endorsement",
+   "https://www.foxnews.com/world/trump-backed-candidate-asfura-wins-honduras-presidential-election.amp"
+  ]
+ },
+ {
+  "id": "lig-049",
+  "de": "nayib-bukele",
+  "para": "donald-trump-governo-trump",
+  "tipo": "parceria_formal",
+  "descricao": "El Salvador recebe deportados dos EUA no CECOT mediante pagamento. Segundo Bukele, US$ 6 milhões até 14/04/2025. Termos do acordo sem fonte aberta.",
+  "data": "2025-04",
+  "data_fim": null,
+  "data_texto": "2025-04",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.news24.com/world/trump-hosts-coolest-dictator-bukele-in-migrant-crackdown-talks-20250414"
+  ]
+ },
+ {
+  "id": "lig-050",
+  "de": "daniel-noboa",
+  "para": "donald-trump-governo-trump",
+  "tipo": "reuniao_documentada",
+  "descricao": "Encontro em Mar-a-Lago com proposta reportada de base americana em Manta. A Casa Branca não comentou. Uma fonte; falta a segunda.",
+  "data": "2025-03-29",
+  "data_fim": null,
+  "data_texto": "2025-03-29",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://eldiariony.com/?p=3451441"
+  ]
+ },
+ {
+  "id": "lig-051",
+  "de": "daniel-noboa",
+  "para": "erik-prince",
+  "tipo": "parceria_formal",
+  "descricao": "'Aliança estratégica' anunciada. Fonte aberta só da Press TV (estatal iraniana), que não abriu.",
+  "data": "2025",
+  "data_fim": null,
+  "data_texto": "2025",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.globalsecurity.org/military/library/news/2025/11/mil-251117-presstv07.htm"
+  ]
+ },
+ {
+  "id": "lig-052",
+  "de": "rafael-lopez-aliaga",
+  "para": "eleicao-peruana-2026",
+  "tipo": "outro",
+  "descricao": "Ficou fora do 2º turno por 18.534 votos (11,98% x 12,01%). Denunciou fraude sem provas e em 08/05/2026 disse que não reconheceria o resultado. Aceitação posterior: sem fonte. 2º turno (07/06/2026): Fujimori à frente na apuração inicial; resultado final não verificado.",
+  "data": "2026-05-08",
+  "data_fim": null,
+  "data_texto": "2026-05-08",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.primicias.ec/internacional/elecciones-peru-lopez-aliaga-fraude-frenar-proclamacion-resultados-122686/",
+   "https://www.emol.com/noticias/Internacional/2026/06/07/1202159/peru-resultados-fujimori-derrota-sanchez.html"
+  ]
+ },
+ {
+  "id": "lig-053",
+  "de": "fundacion-disenso",
+  "para": "foro-madrid-chile-2026",
+  "tipo": "organizou",
+  "descricao": "V encontro regional, Centro San Carlos de Apoquindo, Santiago. A openDemocracy relata que aconteceu, com Kevin Roberts (Heritage) na plateia. Data exata não confirmada, perto de 4/9.",
+  "data": "2026-09",
+  "data_fim": null,
+  "data_texto": "2026-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.24horas.cl/actualidad/politica/foro-madrid-llega-a-chile-en-que-consiste",
+   "https://www.emol.com/noticias/Nacional/2026/08/28/1209834/foro-madrid-cumbre-derecha-kast.html",
+   "https://www.opendemocracy.net/es/heritage-trump-ultraderecha-latinoamerica-milei-kast-delaespriella-democracia-autoritarismo.md"
+  ]
+ },
+ {
+  "id": "lig-054",
+  "de": "jose-antonio-kast",
+  "para": "foro-madrid-chile-2026",
+  "tipo": "palestrou_em",
+  "descricao": "Orador principal, já presidente, segundo a openDemocracy.",
+  "data": "2026-09",
+  "data_fim": null,
+  "data_texto": "2026-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.24horas.cl/actualidad/politica/foro-madrid-llega-a-chile-en-que-consiste",
+   "https://www.opendemocracy.net/es/heritage-trump-ultraderecha-latinoamerica-milei-kast-delaespriella-democracia-autoritarismo.md"
+  ]
+ },
+ {
+  "id": "lig-055",
+  "de": "javier-milei",
+  "para": "foro-madrid-chile-2026",
+  "tipo": "palestrou_em",
+  "descricao": "Orador principal, segundo a openDemocracy.",
+  "data": "2026-09",
+  "data_fim": null,
+  "data_texto": "2026-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.24horas.cl/actualidad/politica/foro-madrid-llega-a-chile-en-que-consiste",
+   "https://www.opendemocracy.net/es/heritage-trump-ultraderecha-latinoamerica-milei-kast-delaespriella-democracia-autoritarismo.md"
+  ]
+ },
+ {
+  "id": "lig-056",
+  "de": "santiago-abascal",
+  "para": "donald-trump-governo-trump",
+  "tipo": "reuniao_documentada",
+  "descricao": "O Vox apresentou o projeto do Foro Madrid ao governo Trump. Apresentação, não aprovação nem financiamento. Fonte secundária única.",
+  "data": "2019-02",
+  "data_fim": null,
+  "data_texto": "2019-02",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://en.wikipedia.org/wiki/Madrid_Forum"
+  ]
+ },
+ {
+  "id": "lig-057",
+  "de": "acu-cpac",
+  "para": "cpac-brasil-2019",
+  "tipo": "organizou",
+  "descricao": "Primeira CPAC Brasil, 11-12/10/2019, Hotel Transamerica, São Paulo, com a Fundação Indigo.",
+  "data": "2019-10-11",
+  "data_fim": null,
+  "data_texto": "2019-10-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.gazetadopovo.com.br/ideias/peca-da-guerra-cultural-maior-evento-conservador-dos-eua-vem-ao-brasil-pela-1a-vez/",
+   "https://sxpolitics.org/ptbr/wp-content/uploads/sites/2/2019/10/Programação-CPAC-2019.pdf"
+  ]
+ },
+ {
+  "id": "lig-058",
+  "de": "fundacao-indigo",
+  "para": "cpac-brasil-2019",
+  "tipo": "organizou",
+  "descricao": "Coorganizadora, segundo a Gazeta do Povo.",
+  "data": "2019-10-11",
+  "data_fim": null,
+  "data_texto": "2019-10-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.gazetadopovo.com.br/ideias/peca-da-guerra-cultural-maior-evento-conservador-dos-eua-vem-ao-brasil-pela-1a-vez/"
+  ]
+ },
+ {
+  "id": "lig-059",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-brasil-2019",
+  "tipo": "palestrou_em",
+  "descricao": "Mesa de abertura de 11/10, com Antônio de Rueda e Matt Schlapp, segundo o programa oficial.",
+  "data": "2019-10-11",
+  "data_fim": null,
+  "data_texto": "2019-10-11",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://sxpolitics.org/ptbr/wp-content/uploads/sites/2/2019/10/Programação-CPAC-2019.pdf"
+  ]
+ },
+ {
+  "id": "lig-060",
+  "de": "acu-cpac",
+  "para": "eduardo-bolsonaro",
+  "tipo": "reuniao_documentada",
+  "descricao": "Reunião na Blair House para levar a CPAC ao Brasil. Fonte (Hope not Hate) bloqueada; não relida. Não desenhar no mapa até ler a fonte ou achar outra.",
+  "data": "2019-03",
+  "data_fim": null,
+  "data_texto": "2019-03",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://hopenothate.org.uk/2019/09/20/cpac-your-bags-franchise-continues-global-spread/"
+  ]
+ },
+ {
+  "id": "lig-061",
+  "de": "instituto-conservador-liberal",
+  "para": "cpac-brasil-2021",
+  "tipo": "organizou",
+  "descricao": "Organização do CPAC Brasil 2021 em Brasília. ICL fundado em dezembro (2020) por Eduardo.",
+  "data": "2021-09-03",
+  "data_fim": null,
+  "data_texto": "2021-09-03",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/21536/bolsonaristas-fazem-esquenta-de-atos-do-7-de-setembro-em-conferencia-conservadora"
+  ]
+ },
+ {
+  "id": "lig-062",
+  "de": "eduardo-bolsonaro",
+  "para": "instituto-conservador-liberal",
+  "tipo": "cargo_ou_membro",
+  "descricao": "Fundador do ICL.",
+  "data": "2020-12",
+  "data_fim": null,
+  "data_texto": "2020-12",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/21536/bolsonaristas-fazem-esquenta-de-atos-do-7-de-setembro-em-conferencia-conservadora"
+  ]
+ },
+ {
+  "id": "lig-063",
+  "de": "eduardo-bolsonaro",
+  "para": "cpac-brasil-2021",
+  "tipo": "palestrou_em",
+  "descricao": "Participou do CPAC Brasil 2021 em Brasília. A origem do evento na amizade Schlapp-Eduardo é alegada pelo site da CPAC.",
+  "data": "2021-09-03",
+  "data_fim": null,
+  "data_texto": "2021-09-03",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://talkingpointsmemo.com/muckraker/what-is-cpac-doing-in-brazil"
+  ]
+ },
+ {
+  "id": "lig-064",
+  "de": "acu-cpac",
+  "para": "eduardo-bolsonaro",
+  "tipo": "apoio_publico",
+  "descricao": "Nota de Matt Schlapp pelos canais da CPAC: 'O CPAC condena com a maior veemência a condenação e sentença'. Chamou a decisão de lawfare.",
+  "data": "2026-06-18",
+  "data_fim": null,
+  "data_texto": "2026-06-18",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.gazetadopovo.com.br/mundo/cpac-critica-moraes-classifica-condenacao-de-eduardo-bolsonaro-como-perseguicao/"
+  ]
+ },
+ {
+  "id": "lig-065",
+  "de": "acu-cpac",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Matt Schlapp citado como signatário pelo El Financiero. Documento original não abre. Data da assinatura anterior a set/2021.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.elfinanciero.com.mx/nacional/2021/09/03/carta-de-madrid-de-que-va-el-documento-firmado-entre-vox-y-el-pan/"
+  ]
+ },
+ {
+  "id": "lig-066",
+  "de": "senadores-do-pan",
+  "para": "carta-de-madrid-foro-madrid",
+  "tipo": "assinou",
+  "descricao": "Adesão individual de senadores, sem nomes, em encontro com Abascal. Não é acordo entre partidos.",
+  "data": "2021-09-02",
+  "data_fim": null,
+  "data_texto": "2021-09-02",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.elfinanciero.com.mx/nacional/2021/09/03/carta-de-madrid-de-que-va-el-documento-firmado-entre-vox-y-el-pan/"
+  ]
+ },
+ {
+  "id": "lig-067",
+  "de": "santiago-abascal",
+  "para": "senadores-do-pan",
+  "tipo": "reuniao_documentada",
+  "descricao": "Encontro para assinatura da Carta de Madrid.",
+  "data": "2021-09-02",
+  "data_fim": null,
+  "data_texto": "2021-09-02",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.elfinanciero.com.mx/nacional/2021/09/03/carta-de-madrid-de-que-va-el-documento-firmado-entre-vox-y-el-pan/"
+  ]
+ },
+ {
+  "id": "lig-068",
+  "de": "santiago-abascal",
+  "para": "congresso-brasil-profundo",
+  "tipo": "presente_em",
+  "descricao": "Visita a convite de Eduardo/ICL. Local divergente: Mato Grosso nos anúncios, chegada por São Paulo no artigo da UERJ.",
+  "data": "2021-12-10",
+  "data_fim": null,
+  "data_texto": "2021-12-10",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://theobjective.com/espana/2021-12-09/abascal-contraprograma-casado-visita-bolsonaro/",
+   "https://www.e-publicacoes.uerj.br/maracanan/article/download/87585/56338/366909"
+  ]
+ },
+ {
+  "id": "lig-069",
+  "de": "eduardo-bolsonaro",
+  "para": "congresso-brasil-profundo",
+  "tipo": "organizou",
+  "descricao": "Organizador do evento que recebeu Abascal, segundo o artigo da UERJ e The Objective.",
+  "data": "2021-12-10",
+  "data_fim": null,
+  "data_texto": "2021-12-10",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://theobjective.com/espana/2021-12-09/abascal-contraprograma-casado-visita-bolsonaro/",
+   "https://www.e-publicacoes.uerj.br/maracanan/article/download/87585/56338/366909"
+  ]
+ },
+ {
+  "id": "lig-070",
+  "de": "santiago-abascal",
+  "para": "jair-bolsonaro",
+  "tipo": "reuniao_documentada",
+  "descricao": "Reunião com Jair e apresentação da Carta de Madrid só anunciadas pelo Vox; nenhuma fonte confirma que aconteceu.",
+  "data": "2021-12-10",
+  "data_fim": null,
+  "data_texto": "2021-12-10",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.que.es/2021/12/10/abascal-reune-viernes-bolsonaro-brasil-apoyo/"
+  ]
+ },
+ {
+  "id": "lig-071",
+  "de": "eduardo-bolsonaro",
+  "para": "santiago-abascal",
+  "tipo": "reuniao_documentada",
+  "descricao": "Visita a Madri para encontrar Abascal. Fonte acadêmica única, que cita o UOL.",
+  "data": "2023-06",
+  "data_fim": null,
+  "data_texto": "2023-06",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.e-publicacoes.uerj.br/maracanan/article/download/87585/56338/366909"
+  ]
+ },
+ {
+  "id": "lig-072",
+  "de": "javier-milei",
+  "para": "cpac-brasil-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Discursou no domingo 7/7 em Balneário Camboriú; Jair discursou no sábado (LADB). Kast citado só no LADB. Organização pelo ICL/Eduardo precisa de segunda fonte.",
+  "data": "2024-07-07",
+  "data_fim": null,
+  "data_texto": "2024-07-07",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://latinamericadailybriefing.substack.com/p/regions-conservatives-at-brazil-cpac",
+   "https://latinnews.com/component/k2/item/102124-argentina-brazil-milei-snubs-lula-for-far-right-conference.html"
+  ]
+ },
+ {
+  "id": "lig-073",
+  "de": "jair-bolsonaro",
+  "para": "cpac-brasil-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Discursou no sábado, segundo o LADB.",
+  "data": "2024-07-06",
+  "data_fim": null,
+  "data_texto": "2024-07-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://latinamericadailybriefing.substack.com/p/regions-conservatives-at-brazil-cpac",
+   "https://latinnews.com/component/k2/item/102124-argentina-brazil-milei-snubs-lula-for-far-right-conference.html"
+  ]
+ },
+ {
+  "id": "lig-074",
+  "de": "eduardo-verastegui",
+  "para": "cpac-mexico-2024",
+  "tipo": "organizou",
+  "descricao": "Cidade do México. Trump mandou mensagem (formato não dito). Milei cancelou de última hora.",
+  "data": "2024-08-24",
+  "data_fim": null,
+  "data_texto": "2024-08-24",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://vanguardia.com.mx/noticias/cpac-2024-donald-trump-manda-mensaje-a-mexico-en-conferencia-de-ultraderecha-AD13011908",
+   "https://www.cpac.org/post/cpac-mexico-returns-to-defend-freedom-in-the-americas"
+  ]
+ },
+ {
+  "id": "lig-075",
+  "de": "jose-antonio-kast",
+  "para": "cpac-mexico-2024",
+  "tipo": "presente_em",
+  "descricao": "Presente, com Schlapp e Agustín Laje.",
+  "data": "2024-08-24",
+  "data_fim": null,
+  "data_texto": "2024-08-24",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://vanguardia.com.mx/noticias/cpac-2024-donald-trump-manda-mensaje-a-mexico-en-conferencia-de-ultraderecha-AD13011908",
+   "https://www.cpac.org/post/cpac-mexico-returns-to-defend-freedom-in-the-americas"
+  ]
+ },
+ {
+  "id": "lig-076",
+  "de": "acu-cpac",
+  "para": "cpac-mexico-2024",
+  "tipo": "presente_em",
+  "descricao": "Matt Schlapp presente.",
+  "data": "2024-08-24",
+  "data_fim": null,
+  "data_texto": "2024-08-24",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://vanguardia.com.mx/noticias/cpac-2024-donald-trump-manda-mensaje-a-mexico-en-conferencia-de-ultraderecha-AD13011908",
+   "https://www.cpac.org/post/cpac-mexico-returns-to-defend-freedom-in-the-americas"
+  ]
+ },
+ {
+  "id": "lig-077",
+  "de": "alapjogokert-kozpont",
+  "para": "cpac-hungria-2022",
+  "tipo": "organizou",
+  "descricao": "Organizador da CPAC Hungria em Budapeste, adiada de março para 19-20/05/2022. O MCC não organizou.",
+  "data": "2022-05-19",
+  "data_fim": null,
+  "data_texto": "2022-05-19",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://telex.hu/belfold/2022/01/26/bolsonaro-fia-a-legnagyobb-nev-a-budapestre-a-valaszasok-elott-egy-hettel-szervezett-amerikai-republikanus-szuperkonferencian",
+   "https://www.portfolio.hu/en/economy/20220511/hungarys-orban-to-be-keynote-speaker-alongside-trumps-favourite-people-544131"
+  ]
+ },
+ {
+  "id": "lig-078",
+  "de": "viktor-orban",
+  "para": "cpac-hungria-2022",
+  "tipo": "palestrou_em",
+  "descricao": "Orador principal.",
+  "data": "2022-05-19",
+  "data_fim": null,
+  "data_texto": "2022-05-19",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.portfolio.hu/en/economy/20220511/hungarys-orban-to-be-keynote-speaker-alongside-trumps-favourite-people-544131",
+   "https://www.nippon.com/en/news/reu20220126KBN2K01IA/"
+  ]
+ },
+ {
+  "id": "lig-079",
+  "de": "santiago-abascal",
+  "para": "cpac-hungria-2022",
+  "tipo": "palestrou_em",
+  "descricao": "Participação online ou por vídeo, segundo a Portfolio.",
+  "data": "2022-05-19",
+  "data_fim": null,
+  "data_texto": "2022-05-19",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.portfolio.hu/en/economy/20220511/hungarys-orban-to-be-keynote-speaker-alongside-trumps-favourite-people-544131",
+   "https://telex.hu/belfold/2022/01/26/bolsonaro-fia-a-legnagyobb-nev-a-budapestre-a-valaszasok-elott-egy-hettel-szervezett-amerikai-republikanus-szuperkonferencian"
+  ]
+ },
+ {
+  "id": "lig-080",
+  "de": "jose-antonio-kast",
+  "para": "cpac-hungria-2024",
+  "tipo": "palestrou_em",
+  "descricao": "Discurso (#CPACHungary2024) chamando Boric de 'presidente woke' e citando Milei e Bukele como exemplos.",
+  "data": "2024-04-26",
+  "data_fim": null,
+  "data_texto": "2024-04-26",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.theclinic.cl/2024/04/26/kast-desde-hungria-estamos-gobernados-por-un-presidente-woke-que-llega-a-trabajar-tarde-y-se-va-para-la-casa-temprano/",
+   "https://www.cnnchile.com/pais/kast-boric-presidente-woke-discurso-postulacion-presidencial_20240426/"
+  ]
+ },
+ {
+  "id": "lig-081",
+  "de": "acu-cpac",
+  "para": "flavio-bolsonaro",
+  "tipo": "apoio_publico",
+  "descricao": "Mercedes Schlapp na cúpula internacional da CPAC Dallas: 'CPAC will be very involved in helping Flávio'. Flávio disse, em outro painel, que não quer interferência; não foi resposta a ela.",
+  "data": "2026-04",
+  "data_fim": null,
+  "data_texto": "2026-04",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.desmog.com/2026/04/09/revealed-the-maga-plan-to-take-out-progressive-leaders-worldwide/"
+  ]
+ },
+ {
+  "id": "lig-082",
+  "de": "acu-cpac",
+  "para": "eleicao-presidencial-da-colombia-2026",
+  "tipo": "apoio_publico",
+  "descricao": "Mercedes Schlapp quer uma 'CPAC Colombia to take out President Pedro' e eleger um candidato de direita.",
+  "data": "2026-04",
+  "data_fim": null,
+  "data_texto": "2026-04",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.desmog.com/2026/04/09/revealed-the-maga-plan-to-take-out-progressive-leaders-worldwide/"
+  ]
+ },
+ {
+  "id": "lig-083",
+  "de": "viktor-orban",
+  "para": "acu-cpac",
+  "tipo": "apoio_publico",
+  "descricao": "Na CPAC Hungria 2026, agradeceu o apoio da ACU antes das eleições húngaras ('Dear Matt... you mean a lot to us').",
+  "data": "2026-04",
+  "data_fim": null,
+  "data_texto": "2026-04",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.desmog.com/2026/04/09/revealed-the-maga-plan-to-take-out-progressive-leaders-worldwide/"
+  ]
+ },
+ {
+  "id": "lig-084",
+  "de": "eduardo-bolsonaro",
+  "para": "heritage-foundation",
+  "tipo": "reuniao_documentada",
+  "descricao": "Visita à sede em Washington, recebido pelo pesquisador visitante James R. Otterson. Damares e Ernesto Araújo também passaram lá. Base: post do próprio Eduardo.",
+  "data": "2020-02",
+  "data_fim": null,
+  "data_texto": "2020-02",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://apublica.org/2022/09/77-reunioes-com-a-direita-americana/"
+  ]
+ },
+ {
+  "id": "lig-085",
+  "de": "heritage-foundation",
+  "para": "instituto-conservador-liberal",
+  "tipo": "outro",
+  "descricao": "A Heritage 'foi inspiração' para criar o ICL. Inspiração, não parceria.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://apublica.org/2022/09/77-reunioes-com-a-direita-americana/"
+  ]
+ },
+ {
+  "id": "lig-086",
+  "de": "heritage-foundation",
+  "para": "santiago-pena",
+  "tipo": "reuniao_documentada",
+  "descricao": "Delegação de Kevin Roberts e Victoria Coates a Paraguai, Argentina e Panamá; reunião nomeada com Peña.",
+  "data": "2025-03",
+  "data_fim": null,
+  "data_texto": "2025-03",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.foxnews.com/politics/conservative-group-warns-high-costs-us-influence-fades-latin-america.amp"
+  ]
+ },
+ {
+  "id": "lig-087",
+  "de": "heritage-foundation",
+  "para": "javier-milei",
+  "tipo": "outro",
+  "descricao": "Ligação via agente registrado na FARA desde 2023, segundo a openDemocracy. Com Kast e De la Espriella, só autoatribuição de Roberts.",
+  "data": "2023",
+  "data_fim": null,
+  "data_texto": "2023",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://www.opendemocracy.net/es/heritage-trump-ultraderecha-latinoamerica-milei-kast-delaespriella-democracia-autoritarismo.md"
+  ]
+ },
+ {
+  "id": "lig-088",
+  "de": "atlas-network",
+  "para": "instituto-de-estudos-empresariais",
+  "tipo": "parceria_formal",
+  "descricao": "Laços antigos com a Atlas; na lista de afiliados de 2021; Templeton Freedom Award em 2007. Organiza o Fórum da Liberdade.",
+  "data": "2007",
+  "data_fim": null,
+  "data_texto": "2007",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.desmog.com/2023/08/25/brazil-rightwing-think-tanks-align-with-agribusiness-to-regain-power/"
+  ]
+ },
+ {
+  "id": "lig-089",
+  "de": "atlas-network",
+  "para": "latin-america-liberty-forum-2025",
+  "tipo": "organizou",
+  "descricao": "Rio de Janeiro, 6-7/02/2025, com coorganização do Livres. A Fundación Libertad y Progreso, descrita pela Atlas como decisiva para as reformas de Milei, foi finalista. Fonte própria da Atlas.",
+  "data": "2025-02-06",
+  "data_fim": null,
+  "data_texto": "2025-02-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.atlasnetwork.org/articles/finalists-2025-latin-america-liberty-award"
+  ]
+ },
+ {
+  "id": "lig-090",
+  "de": "livres",
+  "para": "latin-america-liberty-forum-2025",
+  "tipo": "organizou",
+  "descricao": "Coorganizador, parceiro brasileiro da Atlas.",
+  "data": "2025-02-06",
+  "data_fim": null,
+  "data_texto": "2025-02-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.atlasnetwork.org/articles/finalists-2025-latin-america-liberty-award"
+  ]
+ },
+ {
+  "id": "lig-091",
+  "de": "adf-international",
+  "para": "parlamentares-brasileiros",
+  "tipo": "outro",
+  "descricao": "Representação na CIDH contra 'censura estatal' e o bloqueio de 39 dias do X. Fonte única, sem a petição.",
+  "data": "2024-12",
+  "data_fim": null,
+  "data_texto": "2024-12",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://noticias.foxnews.com/media/brazilian-lawmakers-appeal-international-human-rights-org-over-state-censorship-efforts"
+  ]
+ },
+ {
+  "id": "lig-092",
+  "de": "atlas-network",
+  "para": "think-tanks-parceiros",
+  "tipo": "financiou_declarado",
+  "descricao": "A própria Atlas declarou ao The Intercept ter repassado mais de US$ 5 milhões a parceiros em 2016. Sem detalhe por país; não identifica beneficiário brasileiro.",
+  "data": "2016",
+  "data_fim": null,
+  "data_texto": "2016",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://theintercept.com/2017/08/09/atlas-network-alejandro-chafuen-libertarian-think-tank-latin-america-brazil/"
+  ]
+ },
+ {
+  "id": "lig-093",
+  "de": "atlas-network",
+  "para": "lideres-do-mbl",
+  "tipo": "financiou_declarado",
+  "descricao": "Afirmação do Intercept: receberam apoio financeiro e passaram pelos seminários da Atlas. Sem valor e sem documento.",
+  "data": "2017-08-09",
+  "data_fim": null,
+  "data_texto": "2017-08-09",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://theintercept.com/2017/08/09/atlas-network-alejandro-chafuen-libertarian-think-tank-latin-america-brazil/"
+  ]
+ },
+ {
+  "id": "lig-094",
+  "de": "atlas-network",
+  "para": "instituto-mises-brasil",
+  "tipo": "parceria_formal",
+  "descricao": "Ligação de rede alegada só pelo Monitor Mercantil (não lido, 403). O Intercept não afirma essa ligação. Derrubar se não confirmado.",
+  "data": null,
+  "data_fim": null,
+  "data_texto": "s/d",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://monitormercantil.com.br/rede-atlas-os-libert-rios-de-ultra-direita-por-tr-s-da-ofensiva-capitalista-na-am-rica-latina/"
+  ]
+ },
+ {
+  "id": "lig-095",
+  "de": "atlas-network",
+  "para": "instituto-liberal-de-sao-paulo",
+  "tipo": "financiou_declarado",
+  "descricao": "Único brasileiro do Smart Bets 2025: bolsa anunciada de US$ 25 mil mais US$ 10 mil de contrapartida. Pagamento efetivo não confirmado. Não confundir com o Instituto Liberal do Rio.",
+  "data": "2025",
+  "data_fim": null,
+  "data_texto": "2025",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.atlasnetwork.org/articles/meet-atlas-networks-2025-smart-bets"
+  ]
+ },
+ {
+  "id": "lig-096",
+  "de": "donorstrust-e-donors-capital-fund",
+  "para": "atlas-network",
+  "tipo": "financiou_declarado",
+  "descricao": "US$ 30.000 + US$ 481.950 = US$ 511.950, segundo tabela da SourceWatch. Ano e atribuição por fundo a conferir nos 990. Dinheiro que entra na Atlas, não que sai para a América Latina.",
+  "data": "2019",
+  "data_fim": null,
+  "data_texto": "2019 (a conferir)",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://sourcewatch.org/index.php/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients"
+  ]
+ },
+ {
+  "id": "lig-097",
+  "de": "atlas-network",
+  "para": "irs-form-990",
+  "tipo": "outro",
+  "descricao": "Receita de US$ 28,83 mi no ano fiscal 2025 e US$ 24,27 mi em 2024, cerca de 96% de contribuições. Schedule I (doações no exterior) não lido.",
+  "data": "2026-05-01",
+  "data_fim": null,
+  "data_texto": "2026-05-01",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://projects.propublica.org/nonprofits/organizations/942763845"
+  ]
+ },
+ {
+  "id": "lig-098",
+  "de": "latin-america-advisory-group",
+  "para": "presidencia-de-el-salvador",
+  "tipo": "lobby",
+  "descricao": "Registro FARA 6898 desde jan/2022. Semestre até 30/06/2026: US$ 494.730 de todos os mandantes (também Granada). Contrato de US$ 455 mil por sete meses assinado em 31/05/2025 (El Faro 2025). Ao menos 15 reuniões com conservadores dos EUA; nomes a conferir.",
+  "data": "2026-07-30",
+  "data_fim": null,
+  "data_texto": "2026-07-30",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://efile.fara.gov/docs/6898-Supplemental-Statement-20260730-13.pdf",
+   "https://beta.elfaro.net/en/el-salvador-en/bukele-trump-maga-lobbying-merlo"
+  ]
+ },
+ {
+  "id": "lig-099",
+  "de": "latin-america-advisory-group",
+  "para": "javier-milei",
+  "tipo": "lobby",
+  "descricao": "Contrato pro bono registrado no FARA, de set/2023 até a posse em 10/12/2023, sem renovação. Merlo também assessorou a campanha.",
+  "data": "2023-09",
+  "data_fim": null,
+  "data_texto": "2023-09",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://semafor.com/article/04/08/2024/argentine-president-drops-pro-trump-lobbyist",
+   "https://elfaro.net/en/202407/el_salvador/27489/bukele-lobbyist-received-325-000-in-three-months-to-court-maga-politicians"
+  ]
+ },
+ {
+  "id": "lig-100",
+  "de": "gettr",
+  "para": "cpac-brasil-2021",
+  "tipo": "patrocinou",
+  "descricao": "Listado como patrocinador no site do evento. O Congresso em Foco liga o Gettr a Jason Miller. Valores não divulgados.",
+  "data": "2021-09-03",
+  "data_fim": null,
+  "data_texto": "2021-09-03",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/21536/bolsonaristas-fazem-esquenta-de-atos-do-7-de-setembro-em-conferencia-conservadora"
+  ]
+ },
+ {
+  "id": "lig-101",
+  "de": "parler",
+  "para": "cpac-brasil-2021",
+  "tipo": "patrocinou",
+  "descricao": "Listado como patrocinador. Valores não divulgados.",
+  "data": "2021-09-03",
+  "data_fim": null,
+  "data_texto": "2021-09-03",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/21536/bolsonaristas-fazem-esquenta-de-atos-do-7-de-setembro-em-conferencia-conservadora"
+  ]
+ },
+ {
+  "id": "lig-102",
+  "de": "fundacao-indigo",
+  "para": "cpac-brasil-2019",
+  "tipo": "financiou_declarado",
+  "descricao": "O Congresso em Foco afirma que a Indigo financiou a edição de 2019. Sem valor. 'Fundo partidário' é inferência, não está no texto.",
+  "data": "2019",
+  "data_fim": null,
+  "data_texto": "2019",
+  "classe": "ALEGADO",
+  "fontes": [
+   "https://congressoemfoco.com.br/noticia/21536/bolsonaristas-fazem-esquenta-de-atos-do-7-de-setembro-em-conferencia-conservadora"
+  ]
+ },
+ {
+  "id": "lig-103",
+  "de": "aprosoja-mt",
+  "para": "cpac-brasil-2024",
+  "tipo": "patrocinou",
+  "descricao": "Na lista de patrocinadores (O Globo/Míriam Leitão, confirmado pelo Estadão). A entidade diz que o estatuto veda apoio político-partidário e que o evento não teria esse caráter; pago com recursos próprios. Empresa brasileira.",
+  "data": "2024-07-06",
+  "data_fim": null,
+  "data_texto": "2024-07-06",
+  "classe": "PROVADO",
+  "fontes": [
+   "https://www.novacana.com/noticias/aprosoja-mt-patrocina-evento-direita-nao-carater-partidario-160724"
+  ]
+ }
+]

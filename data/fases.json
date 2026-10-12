@@ -1,0 +1,108 @@
+[
+ {
+  "id": "formacao",
+  "nome": "Formação: contrapúblicos e campo patriota",
+  "inicio": "2003",
+  "fim": "2010",
+  "resumo": "A nova direita começa a se formar nos governos Lula. Rocha põe a semente em meados dos anos 2000: o mensalão (2005) e o Orkut abrem 'contrapúblicos' (comunidade 'Liberalismo Verdadeiro', 2006; Liber, 2009). Alonso vê o campo 'patriota', de libertários a reacionários, se constituir desde a chegada do PT ao Executivo, em 2003. Nobre descreve o sistema político se blindando contra a sociedade após as eleições de 2006.",
+  "autores": [
+   {
+    "nome": "Camila Rocha",
+    "obra": "Menos Marx, mais Mises (tese USP 2019; livro Todavia 2021; Mecila WP 32)",
+    "ano": 2021,
+    "fonte": "https://mecila.net/wp-content/uploads/2021/03/WP_32_Camila_Rocha.pdf"
+   },
+   {
+    "nome": "Angela Alonso",
+    "obra": "Treze: a política de rua de Lula a Dilma (Companhia das Letras)",
+    "ano": 2023,
+    "fonte": "https://www.congressoemfoco.com.br/noticia/109787/sociologa-que-investigou-2013-ve-possibilidade-de-direita-voltar-a-rua"
+   },
+   {
+    "nome": "Marcos Nobre",
+    "obra": "Imobilismo em movimento (Companhia das Letras); fala ao Conselho Editorial da Revista E, 14/11/2013",
+    "ano": 2013,
+    "fonte": "https://portal.sescsp.org.br/online/artigo/compartilhar/7290_MARCOS+NOBRE"
+   }
+  ],
+  "divergencias": "Início em 2003 (Alonso, ciclo de contestação aos governos do PT) ou em meados dos anos 2000 (Rocha, mensalão e Orkut). Nobre trata do sistema político, não da direita, e a periodização dele é indireta."
+ },
+ {
+  "id": "virada",
+  "nome": "Virada: momentos críticos e junho de 2013",
+  "inicio": "2011",
+  "fim": "2013",
+  "resumo": "Rocha lista momentos críticos: choque progressista (2011-2014), protestos contra a corrupção (2011-2012), julgamento do mensalão (2012) e junho de 2013. Para Alonso, em junho de 2013 os três campos (autonomista, neossocialista e patriota) foram juntos às ruas 'pela primeira e única vez', unidos pela contestação aos governos do PT. Para Nobre, a opinião formada nas redes sem canal institucional desemboca em junho.",
+  "autores": [
+   {
+    "nome": "Camila Rocha",
+    "obra": "Menos Marx, mais Mises (tese USP 2019; livro Todavia 2021; Mecila WP 32)",
+    "ano": 2021,
+    "fonte": "https://mecila.net/wp-content/uploads/2021/03/WP_32_Camila_Rocha.pdf"
+   },
+   {
+    "nome": "Angela Alonso",
+    "obra": "Treze; entrevista ao Congresso em Foco (28/6/2025)",
+    "ano": 2025,
+    "fonte": "https://www.congressoemfoco.com.br/noticia/109787/sociologa-que-investigou-2013-ve-possibilidade-de-direita-voltar-a-rua"
+   },
+   {
+    "nome": "Marcos Nobre",
+    "obra": "Imobilismo em movimento",
+    "ano": 2013,
+    "fonte": "https://portal.sescsp.org.br/online/artigo/compartilhar/7290_MARCOS+NOBRE"
+   }
+  ],
+  "divergencias": "Alonso rejeita 2013 como explosão espontânea ou marco zero ('A direita não nasceu anteontem'). Os autores divergem sobre o peso da rua e o das redes."
+ },
+ {
+  "id": "ruas",
+  "nome": "Consolidação nas ruas: reeleição de Dilma ao impeachment",
+  "inicio": "2014",
+  "fim": "2016",
+  "resumo": "Rocha diz que muitos se perceberam de direita a partir de 2014, 'com a reeleição da Dilma'; lista Lava Jato (2014), reeleição (2014) e protestos pró-impeachment (2014-2016), e data a recriação do MBL por Renan Santos em 15/11/2014. Alonso diz que o campo patriota voltou às ruas sozinho em 2015, com mais gente que em 2013. Pesquisa de Solano, Moretto Ribeiro e Ortellado na Paulista (agosto de 2015), citada por Rocha: 96% insatisfeitos com o sistema político, 73% sem confiança nos partidos, 70% sem confiança nos políticos.",
+  "autores": [
+   {
+    "nome": "Camila Rocha",
+    "obra": "Menos Marx, mais Mises (tese USP 2019; livro Todavia 2021; Mecila WP 32)",
+    "ano": 2021,
+    "fonte": "https://mecila.net/wp-content/uploads/2021/03/WP_32_Camila_Rocha.pdf"
+   },
+   {
+    "nome": "Angela Alonso",
+    "obra": "entrevista ao Congresso em Foco",
+    "ano": 2025,
+    "fonte": "https://www.congressoemfoco.com.br/noticia/109787/sociologa-que-investigou-2013-ve-possibilidade-de-direita-voltar-a-rua"
+   },
+   {
+    "nome": "Esther Solano, Márcio Moretto Ribeiro e Pablo Ortellado",
+    "obra": "pesquisa na Avenida Paulista, agosto de 2015 (citada por Rocha via Rossi 2015)",
+    "ano": 2015,
+    "fonte": "https://mecila.net/wp-content/uploads/2021/03/WP_32_Camila_Rocha.pdf"
+   }
+  ],
+  "divergencias": "Solano e Ortellado entram só pelo dado citado por Rocha; não há periodização própria deles conferida, e o número de 96% não foi achado na fonte primária."
+ },
+ {
+  "id": "poder",
+  "nome": "Chegada ao poder: Bolsonaro como nome possível",
+  "inicio": "2018",
+  "fim": null,
+  "resumo": "Para Rocha, Bolsonaro não era o candidato ideal da nova direita, mas 'o único candidato' capaz de vencer o PT no segundo turno; ela descreve um casamento frágil e um campo dividido entre apoiadores incondicionais, críticos e opositores. Nunes trata o bolsonarismo como fenômeno social de dinâmicas de longo prazo que ganham 'expressão política comum a partir de 2018', interclassista, um 'enxame de empreendedores buscando um nicho de mercado', capaz de resistir a uma derrota nas urnas.",
+  "autores": [
+   {
+    "nome": "Camila Rocha",
+    "obra": "entrevista à DW/Brasil de Fato (16/08/2021)",
+    "ano": 2021,
+    "fonte": "https://www.brasildefato.com.br/2021/08/16/casamento-entre-nova-direita-e-bolsonarismo-sempre-foi-fragil-diz-cientista-politica"
+   },
+   {
+    "nome": "Rodrigo Nunes",
+    "obra": "Do transe à vertigem (Ubu, 2022)",
+    "ano": 2022,
+    "fonte": "https://ihu.unisinos.br/623093"
+   }
+  ],
+  "divergencias": "Nunes liga o bolsonarismo a 2018, mas como resultado de dinâmicas longas; Rocha separa nova direita e bolsonarismo. Nenhum autor afirma uma linha causal única de 2006 a 2018. Nunes foi lido por entrevistas (O Povo, 18/7/2022; IHU, 18/10/2022), não pelo livro."
+ }
+]

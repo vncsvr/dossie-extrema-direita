@@ -1,0 +1,191 @@
+{
+ "citacoes": [
+  {
+   "quem": "Paulo Abrão (Washington Brazil Office)",
+   "data": "2026-01-09",
+   "veiculo": "Washington Brazil Office",
+   "frase": "The priority in 2026 is to defend democracy in Brazil",
+   "classe": "ALEGADO",
+   "evento_id": "2026-01-09-prioridade-de-2026-e-defender-a-democracia-paulo",
+   "fontes": [
+    "https://www.braziloffice.org/en/articles/the-priority-in-2026-is-to-defend-democracy-in-brazil"
+   ]
+  },
+  {
+   "quem": "Paulo Niccoli Ramirez (FESPSP)",
+   "data": "2026-02-12",
+   "veiculo": "Brasil de Fato",
+   "frase": "Será um teste de maturidade democrática.",
+   "classe": "ALEGADO",
+   "evento_id": "2026-02-12-cientista-politico-2026-e-teste-de-maturidade-de",
+   "fontes": [
+    "https://www.brasildefato.com.br/2026/02/12/cientista-politico-aponta-que-eleicao-de-2026-e-teste-de-maturidade-democratica/"
+   ]
+  },
+  {
+   "quem": "Benedito Tadeu César (cientista político)",
+   "data": "2026-05-15",
+   "veiculo": "Brasil de Fato",
+   "frase": "Será uma disputa pela configuração do poder no Brasil.",
+   "classe": "ALEGADO",
+   "evento_id": "2026-05-15-analise-a-eleicao-decide-a-configuracao-do-poder",
+   "fontes": [
+    "https://www.brasildefato.com.br/2026/05/15/2026-eleicao-dos-governantes-e-de-quem-podera-impedi-los-de-governar/"
+   ]
+  },
+  {
+   "quem": "Jaques Wagner (PT-BA)",
+   "data": "2026-08-01",
+   "veiculo": "Folha PE / Estadão Conteúdo",
+   "frase": "A eleição do presidente Lula neste ano não é importante apenas para o Brasil.",
+   "classe": "ALEGADO",
+   "evento_id": "2026-08-01-jaques-wagner-reeleicao-de-lula-importa-ao-mundo",
+   "fontes": [
+    "https://www.folhape.com.br/noticia/amp/504018/jaques-wagner-eleicao-de-lula-em-2026-e-fundamental-para-mundo-em/"
+   ]
+  },
+  {
+   "quem": "Sinpro Campinas e Região",
+   "data": "2026-08-15",
+   "veiculo": "site da CTB (manifesto)",
+   "frase": "a negação absoluta de todos os fundamentos da República",
+   "classe": "ALEGADO",
+   "evento_id": "2026-08-15-manifesto-de-sindicato-descreve-flavio-como-amea",
+   "fontes": [
+    "https://www.ctb.org.br/wp-content/uploads/2026/08/Manifesto-de-apoio-a-reeleicao-de-Lula-1.pdf"
+   ]
+  },
+  {
+   "quem": "Rich McCormick e María Elvira Salazar (deputados republicanos)",
+   "data": "2025-02-25",
+   "veiculo": "Poder360 (carta publicada)",
+   "frase": "crush opposition, protect President Lula, and rig the 2026 election",
+   "classe": "ALEGADO",
+   "evento_id": "2025-02-25-deputados-republicanos-acusam-moraes-de-manipula",
+   "fontes": [
+    "https://static.poder360.com.br/2025/03/carta-congressistas-eua-pedem-sancoes-contra-moraes-20mar2025.pdf"
+   ]
+  },
+  {
+   "quem": "Marcelo Uchôa (Comissão de Anistia)",
+   "data": "2025-12-14",
+   "veiculo": "O Povo",
+   "frase": "não é anistia, é impunidade",
+   "classe": "ALEGADO",
+   "evento_id": "2025-12-14-especialistas-comparam-a-anistia-de-1979-e-as-pr",
+   "fontes": [
+    "https://mais.opovo.com.br/jornal/politica/2025/12/14/por-que-o-brasil-sempre-volta-a-debater-anistias.html"
+   ]
+  },
+  {
+   "quem": "Lula",
+   "data": "2026-07-30",
+   "veiculo": "diariodepernambuco.com.br",
+   "frase": "vão tentar interferir aqui",
+   "classe": "ALEGADO",
+   "evento_id": "2026-07-30-lula-os-eua-vao-tentar-interferir-aqui",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/politica/2026/07/11719978-eles-vao-tentar-interferir-aqui-declara-lula-sobre-eua-nas-eleicoes-2026.html"
+   ]
+  },
+  {
+   "quem": "Nunes Marques (presidente do TSE)",
+   "data": "2026-10-04",
+   "veiculo": "camara.leg.br",
+   "frase": "Até o momento, nós não temos nenhum indicativo concreto de interferência internacional",
+   "classe": "PROVADO",
+   "evento_id": "2026-10-04-presidente-do-tse-ate-o-momento-nos-nao-temos-ne",
+   "fontes": [
+    "https://www.camara.leg.br/noticias/1308707-presidente-do-tse-diz-nao-ter-sinais-de-interferencia-estrangeira-e-registra-substituicao-de-1-121-urnas",
+    "https://www.cnnbrasil.com.br/eleicoes/tse-nao-registrou-nenhum-alerta-de-intercorrencia-estrangeira-diz-kassio/"
+   ]
+  },
+  {
+   "quem": "Planalto (nota oficial)",
+   "data": "2026-08-04",
+   "veiculo": "itatiaia.com.br",
+   "frase": "interesse descabido de interferir na próxima eleição",
+   "classe": "ALEGADO",
+   "evento_id": "2026-08-04-nota-do-planalto-os-eua-tem-interesse-descabido",
+   "fontes": [
+    "https://www.itatiaia.com.br/noticias/planalto-repudia-eua-apos-revogacao-de-visto-de-embaixadora-medida-hostil/"
+   ]
+  },
+  {
+   "quem": "Alexandre de Moraes (STF)",
+   "data": "2026-02-25",
+   "veiculo": "Estado de Minas; CNN",
+   "frase": "Eles eram a milícia",
+   "classe": "PROVADO",
+   "evento_id": "2026-02-25-stf-condena-os-irmaos-brazao-pelo-caso-marielle",
+   "fontes": [
+    "JB",
+    "CNN",
+    "Estado de Minas"
+   ]
+  }
+ ],
+ "fatos_sem_precedente": [
+  {
+   "fato": "2026 é a primeira eleição presidencial depois da condenação definitiva de um ex-presidente por tentativa de golpe.",
+   "data": "2025-11-25",
+   "classe": "ALEGADO",
+   "base_do_ineditismo": "Leitura do dossiê a partir das datas (condenação definitiva em 25/11/2025); a fonte não diz isso.",
+   "evento_id": "2025-11-25-stf-declara-o-transito-em-julgado-da-condenacao",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/politica/2025/11/11701391-stf-declara-fim-do-processo-da-trama-golpista-e-bolsonaro-ja-pode-cumprir-pena.html",
+    "https://apublica.org/nota/stf-decide-fim-do-processo-que-condena-jair-bolsonaro/",
+    "https://www.dgabc.com.br/Noticia/4271351/stf-declara-transito-em-julgado-de-bolsonaro-torres-e-ramagem-e-prisoes-podem-ser-decretadas"
+   ]
+  },
+  {
+   "fato": "Flávio Bolsonaro terminou o 1º turno à frente, embora as pesquisas finais dessem Lula na liderança.",
+   "data": "2026-10-04",
+   "classe": "PROVADO",
+   "base_do_ineditismo": "MercoPress e Blueprint registram o resultado e as pesquisas; não afirmam ineditismo.",
+   "evento_id": "2026-10-04-1o-turno-flavio-bolsonaro-47-03-x-lula-45-16-dos",
+   "fontes": [
+    "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+    "https://blueprint.ng/?p=850851",
+    "https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff/comments"
+   ]
+  },
+  {
+   "fato": "Uma ordem executiva dos EUA cita por escrito a eleição brasileira de 2026 ao impor tarifa.",
+   "data": "2025-07-30",
+   "classe": "PROVADO",
+   "base_do_ineditismo": "Documento oficial da Casa Branca; o caráter inédito não foi verificado.",
+   "evento_id": "2025-07-30-ordem-executiva-14323-impoe-40-de-tarifa-ao-bras",
+   "fontes": [
+    "https://www.whitehouse.gov/presidential-actions/2025/07/addressing-threats-to-the-us/",
+    "https://cov.com/en/news-and-insights/insights/2025/08/us-tariffs-and-sanctions-against-brazil-and-the-brazilian-response"
+   ]
+  },
+  {
+   "fato": "Projeção de 28 senadores do PL, melhor marca do partido desde a redemocratização.",
+   "data": "2026-10-04",
+   "classe": "ALEGADO",
+   "base_do_ineditismo": "Projeção da Reuters (Blueprint), não resultado oficial.",
+   "evento_id": "2026-10-04-projecao-pl-vai-a-28-senadores-e-121-deputados",
+   "fontes": [
+    "https://blueprint.ng/?p=850851"
+   ]
+  },
+  {
+   "fato": "Se vencer, Lula será eleito presidente pela quarta vez.",
+   "data": "2026-10-05",
+   "classe": "ALEGADO",
+   "base_do_ineditismo": "Aritmética sobre 2002, 2006 e 2022 (Blueprint); condicional ao 2º turno.",
+   "evento_id": "2026-10-05-possivel-marco-inedito-conforme-o-2o-turno",
+   "fontes": [
+    "https://blueprint.ng/?p=850851",
+    "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-bolsonaro-se-enfrentam-no-2o-turno/"
+   ]
+  }
+ ],
+ "nao_provado": [
+  "Não há fonte que chame 2026 literalmente de \"a eleição mais importante\".",
+  "Não há prova de que a condenação ou a sanção tenham afetado o resultado de 2026.",
+  "Que nenhum 2º colocado no 1º turno venceu o 2º turno desde 1989: a MercoPress não diz isso; falta citar o TSE."
+ ]
+}
